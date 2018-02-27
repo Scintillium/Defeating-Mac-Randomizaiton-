@@ -1,0 +1,1144 @@
+366 
+Seq: 498 Time: 4.978 Mac: 10-2a-b3-61-3e-80  SSID: FAST_1688
+Seq: 502 Time: 5.255 Mac: 10-2a-b3-61-3e-80  SSID: FAST_1688
+Seq: 504 Time: 5.325 Mac: 10-2a-b3-61-3e-80  SSID: FAST_1688
+21 
+Seq: 1488 Time: 6.429 Mac: 68-3e-34-9b-5-6e  SSID: 正在识别身份……
+Seq: 1489 Time: 6.459 Mac: 68-3e-34-9b-5-6e  SSID: homeinns
+Seq: 1491 Time: 6.53 Mac: 68-3e-34-9b-5-6e  SSID: 正在识别身份……
+20 
+Seq: 11 Time: 6.874 Mac: 70-e7-2c-cc-21-e  SSID: SYSU-SECURE
+1020 
+Seq: 175 Time: 7.396 Mac: ac-cf-85-c4-e9-80  SSID: SYSU-SECURE
+Seq: 177 Time: 7.451 Mac: ac-cf-85-c4-e9-80  SSID: SYSU-SECURE
+Seq: 179 Time: 7.515 Mac: ac-cf-85-c4-e9-80  SSID: SYSU-SECURE
+Seq: 181 Time: 7.598 Mac: ac-cf-85-c4-e9-80  SSID: SYSU-SECURE
+Seq: 191 Time: 7.844 Mac: ac-cf-85-c4-e9-80  SSID: SYSU-SECURE
+Seq: 289 Time: 21.045 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 290 Time: 21.064 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 291 Time: 21.127 Mac: ac-cf-85-c4-e9-80  SSID: Maths208
+Seq: 293 Time: 21.221 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 294 Time: 21.239 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 295 Time: 21.294 Mac: ac-cf-85-c4-e9-80  SSID: Maths208
+Seq: 297 Time: 21.41 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 298 Time: 21.547 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 301 Time: 21.628 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 302 Time: 21.698 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 303 Time: 21.712 Mac: ac-cf-85-c4-e9-80  SSID: Maths208
+20 
+Seq: 1615 Time: 9.623 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 1616 Time: 9.734 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 1685 Time: 48.216 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1687 Time: 48.268 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1689 Time: 48.305 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1749 Time: 49.252 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1751 Time: 49.347 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1821 Time: 67.416 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 1822 Time: 67.633 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 1849 Time: 141.921 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1949 Time: 216.911 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1951 Time: 217.043 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 1953 Time: 217.17 Mac: e4-58-b8-b1-d8-b9  SSID: 
+Seq: 1955 Time: 217.247 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2065 Time: 281.115 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2066 Time: 281.236 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2068 Time: 281.323 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2126 Time: 297.937 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2128 Time: 298.029 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2130 Time: 298.082 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2197 Time: 315.017 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2210 Time: 328.104 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2211 Time: 328.29 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2219 Time: 331.818 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2220 Time: 331.887 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2240 Time: 380.462 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2244 Time: 380.666 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2359 Time: 460.011 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2360 Time: 460.077 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2363 Time: 460.202 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2364 Time: 460.287 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2392 Time: 482.746 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2394 Time: 482.863 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2396 Time: 482.989 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2483 Time: 515.814 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2484 Time: 515.904 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2487 Time: 516.083 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2488 Time: 516.177 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2555 Time: 547.313 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2557 Time: 547.394 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2559 Time: 547.547 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2561 Time: 547.639 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2674 Time: 566.252 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2675 Time: 566.302 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2676 Time: 566.363 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2677 Time: 566.474 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 2745 Time: 623.513 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2747 Time: 623.593 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2751 Time: 623.68 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2817 Time: 635.209 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2819 Time: 635.308 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2823 Time: 635.397 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2906 Time: 657.357 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 2908 Time: 657.469 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3032 Time: 707.495 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 3033 Time: 707.571 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 3035 Time: 707.818 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 3036 Time: 707.888 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 3053 Time: 712.181 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 3054 Time: 712.227 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 3078 Time: 722.996 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 3103 Time: 735.746 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3107 Time: 736.067 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+2c 
+Seq: 2750 Time: 9.788 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2751 Time: 9.831 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2752 Time: 9.845 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 2754 Time: 9.905 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2755 Time: 9.917 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2854 Time: 34.748 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2856 Time: 34.808 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 2858 Time: 34.89 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2859 Time: 34.905 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2860 Time: 35.006 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 2960 Time: 35.52 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 2966 Time: 60.259 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2967 Time: 60.405 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2968 Time: 60.455 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 2970 Time: 60.501 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2974 Time: 60.546 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2978 Time: 60.721 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 2979 Time: 60.821 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3076 Time: 61.183 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3102 Time: 97.885 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3103 Time: 97.925 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3104 Time: 97.936 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3106 Time: 97.972 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3107 Time: 98.036 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3108 Time: 98.051 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3110 Time: 98.182 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3111 Time: 98.248 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3208 Time: 98.88 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3210 Time: 128.977 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3211 Time: 128.997 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3212 Time: 129.024 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3214 Time: 129.065 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3215 Time: 129.12 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3216 Time: 129.133 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3220 Time: 129.199 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3358 Time: 161.974 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3359 Time: 162.011 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3360 Time: 162.022 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3362 Time: 162.127 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3364 Time: 162.178 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3367 Time: 162.228 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3368 Time: 162.325 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3370 Time: 162.417 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3371 Time: 162.449 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3478 Time: 199.099 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3480 Time: 199.141 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3482 Time: 199.184 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3483 Time: 199.195 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3484 Time: 199.237 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3490 Time: 199.281 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3582 Time: 232.587 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3587 Time: 232.751 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3588 Time: 232.794 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3700 Time: 233.19 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3702 Time: 277.679 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3703 Time: 277.717 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3704 Time: 277.726 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3799 Time: 278.139 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3800 Time: 278.155 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 3802 Time: 278.195 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3803 Time: 278.234 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3807 Time: 314.077 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3923 Time: 352.894 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 3926 Time: 352.939 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+12c 
+Seq: 4006 Time: 19.725 Mac: c0-ee-fb-6-f8-8d  SSID: Pisces
+Seq: 4008 Time: 19.784 Mac: c0-ee-fb-6-f8-8d  SSID: Pisces
+12c 
+Seq: 1775 Time: 20.596 Mac: 58-44-98-f9-fb-a7  SSID: F22
+Seq: 1777 Time: 20.666 Mac: 58-44-98-f9-fb-a7  SSID: F22
+21 
+Seq: 2870 Time: 21.858 Mac: fc-3f-7c-73-4f-f7  SSID: junhe8
+Seq: 2872 Time: 21.935 Mac: fc-3f-7c-73-4f-f7  SSID: junhe8
+Seq: 2874 Time: 22.112 Mac: fc-3f-7c-73-4f-f7  SSID: junhe8
+Seq: 2877 Time: 101.884 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+Seq: 3040 Time: 106.632 Mac: fc-3f-7c-73-4f-f7  SSID: junhe8
+Seq: 3223 Time: 154.578 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+2d 
+Seq: 410 Time: 28.213 Mac: 20-ab-37-82-b4-24  SSID: SYSU-SECURE
+Seq: 414 Time: 28.361 Mac: 20-ab-37-82-b4-24  SSID: SYSU-SECURE
+112d 
+Seq: 3047 Time: 29.058 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3049 Time: 29.153 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3051 Time: 29.238 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3135 Time: 71.289 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3137 Time: 71.368 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3139 Time: 71.436 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3218 Time: 125.492 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3220 Time: 125.726 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3222 Time: 125.872 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3224 Time: 125.957 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3306 Time: 174.286 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3308 Time: 174.359 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3310 Time: 174.428 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3394 Time: 243.658 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3396 Time: 244.082 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3480 Time: 306.545 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3482 Time: 306.649 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3484 Time: 306.845 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3554 Time: 309.555 Mac: 38-bc-1a-be-db-2  SSID: SYSU-SECURE
+Seq: 3562 Time: 320.989 Mac: 38-bc-1a-be-db-2  SSID: 沥青办公室
+Seq: 3563 Time: 321.005 Mac: 38-bc-1a-be-db-2  SSID: WiFi-93
+Seq: 3565 Time: 321.064 Mac: 38-bc-1a-be-db-2  SSID: 沥青办公室
+Seq: 3566 Time: 321.145 Mac: 38-bc-1a-be-db-2  SSID: WiFi-93
+Seq: 3568 Time: 321.373 Mac: 38-bc-1a-be-db-2  SSID: 沥青办公室
+Seq: 3569 Time: 321.431 Mac: 38-bc-1a-be-db-2  SSID: WiFi-93
+100 
+Seq: 363 Time: 36.223 Mac: 78-3a-84-26-f4-9f  SSID: SYSU-SECURE
+21 
+Seq: 661 Time: 37.202 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 700 Time: 44.064 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+2c 
+Seq: 219 Time: 37.351 Mac: 8c-be-be-cf-31-39  SSID: MissNg
+Seq: 220 Time: 37.405 Mac: 8c-be-be-cf-31-39  SSID: MissNg
+Seq: 224 Time: 37.477 Mac: 8c-be-be-cf-31-39  SSID: jiaobaba
+Seq: 228 Time: 37.52 Mac: 8c-be-be-cf-31-39  SSID: MissNg
+Seq: 314 Time: 39.775 Mac: 8c-be-be-cf-31-39  SSID: SYSU-SECURE
+Seq: 315 Time: 39.79 Mac: 8c-be-be-cf-31-39  SSID: SYSU-SECURE
+12c 
+Seq: 3091 Time: 42.373 Mac:  c-41-3e-cb-a0-bc  SSID: 7Daysinn-802
+Seq: 3094 Time: 42.414 Mac:  c-41-3e-cb-a0-bc  SSID: what
+12c 
+Seq: 46 Time: 48.476 Mac: c0-ee-fb-6-f8-8d  SSID: Pisces
+Seq: 48 Time: 48.493 Mac: c0-ee-fb-6-f8-8d  SSID: Pisces
+Seq: 52 Time: 48.567 Mac: c0-ee-fb-6-f8-8d  SSID: Pisces
+0 
+Seq: 1296 Time: 50.128 Mac: 68-3e-34-32-2f-81  SSID: GDSZYY_UKang_Office
+21 
+Seq: 2701 Time: 50.52 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+Seq: 2703 Time: 50.634 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+21 
+Seq: 3284 Time: 56.605 Mac: 3a-6e-e7-bd-f3-84  SSID: rcdd409
+16f 
+Seq: 1899 Time: 60.04 Mac: b0-e2-35-c0-a4-b2  SSID: jingguyuan
+Seq: 1900 Time: 60.055 Mac: b0-e2-35-c0-a4-b2  SSID: jinguyuan
+Seq: 1903 Time: 60.203 Mac: b0-e2-35-c0-a4-b2  SSID: jingguyuan
+Seq: 1904 Time: 60.219 Mac: b0-e2-35-c0-a4-b2  SSID: jinguyuan
+20 
+Seq: 3150 Time: 62.221 Mac: 58-44-98-fc-ec-b1  SSID: TP-LINK_B403
+Seq: 3153 Time: 62.285 Mac: 58-44-98-fc-ec-b1  SSID: HotZone Duo - 1
+0 
+Seq: 3560 Time: 63.129 Mac: 68-3e-34-92-84-3d  SSID: LONG
+Seq: 3561 Time: 63.174 Mac: 68-3e-34-92-84-3d  SSID: long
+Seq: 3562 Time: 63.188 Mac: 68-3e-34-92-84-3d  SSID: 金坷垃
+Seq: 3564 Time: 63.488 Mac: 68-3e-34-92-84-3d  SSID: LONG
+Seq: 3647 Time: 130.344 Mac: 68-3e-34-92-84-3d  SSID: LONG
+Seq: 3648 Time: 130.391 Mac: 68-3e-34-92-84-3d  SSID: long
+112d 
+Seq: 172 Time: 68.831 Mac: 24-1f-a0-7e-18-7f  SSID: SYSU-SECURE
+Seq: 258 Time: 83.692 Mac: 24-1f-a0-7e-18-7f  SSID: SYSU-SECURE
+Seq: 259 Time: 83.779 Mac: 24-1f-a0-7e-18-7f  SSID: SYSU-SECURE
+Seq: 364 Time: 98.294 Mac: 24-1f-a0-7e-18-7f  SSID: SYSU-SECURE
+21 
+Seq: 1107 Time: 69.339 Mac: cc-25-ef-3-57-a4  SSID: SYSU-SECURE
+12c 
+Seq: 1516 Time: 79.308 Mac: 18-59-36-b3-d6-17  SSID: tencent-chaowifi
+Seq: 1517 Time: 79.33 Mac: 18-59-36-b3-d6-17  SSID: tencent-tgrass wifi
+Seq: 1518 Time: 79.372 Mac: 18-59-36-b3-d6-17  SSID: YunWiFiFree
+Seq: 1520 Time: 79.404 Mac: 18-59-36-b3-d6-17  SSID: WiFiSong_Free_WiFi
+Seq: 1521 Time: 79.455 Mac: 18-59-36-b3-d6-17  SSID: tencent-BsWifi
+16f 
+Seq: 91 Time: 85.719 Mac: b0-e2-35-c0-a4-b2  SSID: jingguyuan
+Seq: 95 Time: 85.792 Mac: b0-e2-35-c0-a4-b2  SSID: jingguyuan
+Seq: 96 Time: 85.809 Mac: b0-e2-35-c0-a4-b2  SSID: jinguyuan
+Seq: 107 Time: 85.975 Mac: b0-e2-35-c0-a4-b2  SSID: jingguyuan
+0 
+Seq: 2237 Time: 88.38 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2239 Time: 88.579 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2281 Time: 174.82 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2283 Time: 175.138 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2325 Time: 184.616 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2327 Time: 184.715 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2345 Time: 220.648 Mac: 9c-99-a0-83-7e-80  SSID: TP-LINK_AAEC
+Seq: 2369 Time: 261.302 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2371 Time: 261.754 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 2413 Time: 285.681 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+2d 
+Seq: 816 Time: 123.723 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 817 Time: 124.261 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 818 Time: 124.712 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 819 Time: 125.115 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 870 Time: 137.16 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+2d 
+Seq: 816 Time: 123.773 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 817 Time: 124.31 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 818 Time: 124.759 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 819 Time: 125.131 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+2d 
+Seq: 816 Time: 123.958 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 817 Time: 124.369 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 818 Time: 124.82 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 819 Time: 125.206 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+2d 
+Seq: 816 Time: 124.243 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 817 Time: 124.433 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 818 Time: 124.864 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+2d 
+Seq: 817 Time: 124.579 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 818 Time: 124.924 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+2d 
+Seq: 817 Time: 124.643 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+Seq: 818 Time: 124.981 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+2d 
+Seq: 818 Time: 125.032 Mac: e8-50-8b-96-c5-a4  SSID: SYSU-SECURE
+b19a 
+Seq: 3347 Time: 129.515 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+12c 
+Seq: 3558 Time: 133.147 Mac: 10-2a-b3-c8-a5-7  SSID: SYSU-SECURE
+Seq: 3561 Time: 133.349 Mac: 10-2a-b3-c8-a5-7  SSID: SYSU-SECURE
+800f 
+Seq: 1851 Time: 142.066 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+21 
+Seq: 1020 Time: 147.545 Mac: 2c-f0-a2-7f-9e-6  SSID: SYSU-SECURE
+16e 
+Seq: 1583 Time: 168.154 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1587 Time: 168.258 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1589 Time: 168.355 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1591 Time: 168.4 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1593 Time: 168.466 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+21 
+Seq: 3149 Time: 175.667 Mac: d0-65-ca-ce-97-f4  SSID: itell
+Seq: 3151 Time: 175.723 Mac: d0-65-ca-ce-97-f4  SSID: itell
+2d 
+Seq: 1229 Time: 180.754 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+Seq: 1231 Time: 180.894 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+Seq: 1347 Time: 189.425 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+Seq: 1349 Time: 189.573 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+Seq: 1461 Time: 214.346 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+Seq: 1463 Time: 214.427 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+16f 
+Seq: 1860 Time: 186.72 Mac: 60-83-34-e5-be-b5  SSID: 
+12c 
+Seq: 789 Time: 199.827 Mac: dc-6d-cd-5f-3c-7d  SSID: tyt
+12c 
+Seq: 285 Time: 202.143 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+12c 
+Seq: 285 Time: 202.195 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+12c 
+Seq: 285 Time: 202.212 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+12c 
+Seq: 285 Time: 202.265 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+21 
+Seq: 284 Time: 211.007 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+Seq: 285 Time: 211.057 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+Seq: 286 Time: 211.117 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+Seq: 287 Time: 211.182 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+Seq: 288 Time: 211.234 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+Seq: 289 Time: 211.28 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+Seq: 290 Time: 211.335 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+Seq: 291 Time: 211.385 Mac: 8c-eb-c6-c7-a-aa  SSID: SYSU-SECURE
+12c 
+Seq: 3807 Time: 211.544 Mac: 80-41-4e-71-6b-74  SSID: FengWei
+Seq: 3808 Time: 211.561 Mac: 80-41-4e-71-6b-74  SSID: TP-LINK_209844
+Seq: 3810 Time: 211.597 Mac: 80-41-4e-71-6b-74  SSID: FengWei
+Seq: 3811 Time: 211.614 Mac: 80-41-4e-71-6b-74  SSID: TP-LINK_209844
+Seq: 3813 Time: 211.88 Mac: 80-41-4e-71-6b-74  SSID: FengWei
+Seq: 3814 Time: 211.898 Mac: 80-41-4e-71-6b-74  SSID: TP-LINK_209844
+Seq: 3816 Time: 211.941 Mac: 80-41-4e-71-6b-74  SSID: FengWei
+Seq: 3817 Time: 211.954 Mac: 80-41-4e-71-6b-74  SSID: TP-LINK_209844
+21 
+Seq: 3486 Time: 218.5 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+0 
+Seq: 2149 Time: 219.118 Mac: 9c-99-a0-83-7e-80  SSID: Dragon1
+Seq: 2228 Time: 219.997 Mac: 9c-99-a0-83-7e-80  SSID: defu 2
+16e 
+Seq: 422 Time: 222.181 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+Seq: 548 Time: 228.278 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+16e 
+Seq: 422 Time: 222.199 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+16e 
+Seq: 422 Time: 222.254 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+16e 
+Seq: 422 Time: 222.446 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+12c 
+Seq: 13 Time: 233.766 Mac: 7c-1d-d9-73-a7-f7  SSID: 徐三胖坐在我旁边
+Seq: 147 Time: 278.278 Mac: 7c-1d-d9-73-a7-f7  SSID: 徐三胖坐在我旁边
+Seq: 149 Time: 278.328 Mac: 7c-1d-d9-73-a7-f7  SSID: 徐三胖坐在我旁边
+112d 
+Seq: 672 Time: 237.411 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 674 Time: 237.647 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+21 
+Seq: 573 Time: 250.973 Mac: c4-f0-81-5-d9-76  SSID: Family Mart
+Seq: 576 Time: 251.246 Mac: c4-f0-81-5-d9-76  SSID: Family Mart
+Seq: 577 Time: 251.271 Mac: c4-f0-81-5-d9-76  SSID: yukegongcha 
+Seq: 582 Time: 251.687 Mac: c4-f0-81-5-d9-76  SSID: Family Mart
+Seq: 583 Time: 251.749 Mac: c4-f0-81-5-d9-76  SSID: yukegongcha 
+Seq: 707 Time: 307.888 Mac: c4-f0-81-5-d9-76  SSID: Family Mart
+Seq: 708 Time: 307.943 Mac: c4-f0-81-5-d9-76  SSID: yukegongcha 
+Seq: 845 Time: 341.927 Mac: c4-f0-81-5-d9-76  SSID: Family Mart
+1ad 
+Seq: 763 Time: 254.981 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+Seq: 817 Time: 277.478 Mac: a4-8-ea-f-7d-4a  SSID: SYSU-SECURE
+Seq: 818 Time: 277.533 Mac: a4-8-ea-f-7d-4a  SSID: SYSU-SECURE
+Seq: 837 Time: 297.281 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+Seq: 839 Time: 297.407 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+Seq: 950 Time: 304.342 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+Seq: 952 Time: 304.452 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+21 
+Seq: 1809 Time: 264.838 Mac: bc-75-74-e0-b2-b  SSID: SYSU-SECURE
+Seq: 1813 Time: 264.958 Mac: bc-75-74-e0-b2-b  SSID: SYSU-SECURE
+Seq: 1815 Time: 265.065 Mac: bc-75-74-e0-b2-b  SSID: SYSU-SECURE
+Seq: 1816 Time: 265.131 Mac: bc-75-74-e0-b2-b  SSID: SYSU-SECURE
+112d 
+Seq: 1090 Time: 267.815 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 1091 Time: 267.87 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1092 Time: 268.005 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1093 Time: 268.085 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1094 Time: 268.146 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1095 Time: 268.274 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 1096 Time: 268.348 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 1098 Time: 268.411 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 1100 Time: 268.585 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+12c 
+Seq: 2940 Time: 280.931 Mac: 58-44-98-f9-fb-a7  SSID: F22
+112d 
+Seq: 1530 Time: 292.993 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 1536 Time: 293.186 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1541 Time: 293.41 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 1543 Time: 293.487 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1544 Time: 293.611 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1546 Time: 293.694 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1547 Time: 293.748 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 1548 Time: 293.909 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+2d 
+Seq: 1702 Time: 294.68 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+12c 
+Seq: 1881 Time: 301.413 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1883 Time: 301.587 Mac: cc-f3-a5-66-23-ba  SSID: 
+Seq: 1945 Time: 321.85 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1947 Time: 321.907 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1997 Time: 410.227 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1999 Time: 410.299 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 2055 Time: 527.283 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 2057 Time: 527.332 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 2119 Time: 611.68 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 2121 Time: 611.738 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+112d 
+Seq: 1970 Time: 311.381 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 1971 Time: 311.441 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 1972 Time: 311.615 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 1973 Time: 311.722 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 1974 Time: 311.772 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 1975 Time: 311.955 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1976 Time: 312.092 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1977 Time: 312.209 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1978 Time: 312.27 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1980 Time: 312.503 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 1981 Time: 312.57 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 1983 Time: 312.638 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 1986 Time: 312.834 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1987 Time: 312.941 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1988 Time: 312.993 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1996 Time: 313.143 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1997 Time: 313.2 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+21 
+Seq: 2757 Time: 317.105 Mac: 60-83-34-8-cd-d9  SSID: SYSU-VVLAN
+21 
+Seq: 2558 Time: 318.272 Mac: 68-3e-34-9b-5-6e  SSID: 正在识别身份……
+2d 
+Seq: 2044 Time: 323.503 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+Seq: 2046 Time: 323.633 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+Seq: 2164 Time: 330.782 Mac: e8-50-8b-96-c5-a4  SSID: ZJ
+1020 
+Seq: 521 Time: 332.405 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 522 Time: 332.481 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 523 Time: 332.584 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 524 Time: 332.645 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 525 Time: 332.702 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 526 Time: 332.758 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 527 Time: 332.797 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 528 Time: 332.844 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+Seq: 533 Time: 332.945 Mac: 8c-34-fd-b5-c4-ce  SSID: SYSU-SECURE
+2d 
+Seq: 1080 Time: 333.391 Mac:  0-cd-fe-cc-bf-e9  SSID: SYSU-SECURE
+112d 
+Seq: 2410 Time: 342.432 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 2414 Time: 342.49 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2415 Time: 342.556 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2416 Time: 342.759 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2418 Time: 342.898 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 2420 Time: 343.171 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 2421 Time: 343.255 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 2422 Time: 343.368 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 2442 Time: 344.007 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 2444 Time: 344.062 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2448 Time: 344.156 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+2d 
+Seq: 2985 Time: 351.918 Mac: cc-8-8d-c-6c-6f  SSID: SYSU-SECURE
+Seq: 2986 Time: 351.989 Mac: cc-8-8d-c-6c-6f  SSID: SYSU-SECURE
+Seq: 3042 Time: 363.236 Mac: cc-8-8d-c-6c-6f  SSID: SYSU-SECURE
+Seq: 3043 Time: 363.382 Mac: cc-8-8d-c-6c-6f  SSID: SYSU-SECURE
+2d 
+Seq: 3433 Time: 367.216 Mac: a4-f1-e8-d1-49-84  SSID: SYSU-SECURE
+112d 
+Seq: 3564 Time: 371.785 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3566 Time: 372.077 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3722 Time: 442.582 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 3723 Time: 442.64 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 3724 Time: 442.699 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 3725 Time: 442.848 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3726 Time: 443.126 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3727 Time: 443.306 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3728 Time: 443.361 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3729 Time: 443.427 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3730 Time: 443.474 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3732 Time: 443.581 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 3733 Time: 443.675 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 3734 Time: 443.764 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 3735 Time: 443.823 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3736 Time: 443.877 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3737 Time: 443.935 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3738 Time: 444.021 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3739 Time: 444.174 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3740 Time: 444.29 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3743 Time: 444.471 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 3744 Time: 444.523 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 3747 Time: 444.592 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3749 Time: 444.684 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3753 Time: 444.919 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 3758 Time: 445.114 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3821 Time: 562.092 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3909 Time: 653.601 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 3910 Time: 653.68 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3911 Time: 653.859 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3912 Time: 653.957 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3914 Time: 654.207 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3915 Time: 654.315 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3916 Time: 654.366 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 3917 Time: 654.453 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 3919 Time: 654.567 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 3920 Time: 654.623 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3921 Time: 654.682 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3922 Time: 654.743 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3923 Time: 655.097 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3924 Time: 655.233 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3925 Time: 655.304 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3926 Time: 655.421 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 3931 Time: 655.584 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3933 Time: 655.636 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3934 Time: 655.754 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3935 Time: 655.809 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3997 Time: 679.439 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3999 Time: 679.597 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 4001 Time: 679.831 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 4003 Time: 680.053 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 4083 Time: 748.671 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+16f 
+Seq: 1858 Time: 373.664 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1859 Time: 373.683 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1860 Time: 373.697 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1861 Time: 373.75 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1863 Time: 373.843 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1864 Time: 373.876 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1865 Time: 373.885 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1866 Time: 374.058 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1868 Time: 374.241 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1869 Time: 374.372 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1870 Time: 374.387 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1871 Time: 374.442 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1873 Time: 374.506 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1875 Time: 374.647 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1876 Time: 374.719 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+112d 
+Seq: 2849 Time: 374.845 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 2850 Time: 374.911 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 2851 Time: 374.966 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 2852 Time: 375.024 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 2853 Time: 375.083 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 2854 Time: 375.154 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2855 Time: 375.176 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2856 Time: 375.213 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2858 Time: 375.472 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 2859 Time: 375.545 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 2860 Time: 375.592 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 2862 Time: 375.822 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 2863 Time: 375.94 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 2864 Time: 375.991 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2865 Time: 376.009 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2866 Time: 376.06 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2869 Time: 376.31 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 2871 Time: 376.417 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 2872 Time: 376.577 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 2876 Time: 376.661 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2878 Time: 376.811 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 2886 Time: 376.991 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+3591 
+Seq: 2861 Time: 375.728 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+21b3 
+Seq: 2870 Time: 376.369 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+1bc 
+Seq: 547 Time: 377.681 Mac: ca-37-c6-84-de-b8  SSID: xmy
+1020 
+Seq: 456 Time: 394.846 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 457 Time: 394.902 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 458 Time: 394.947 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 459 Time: 395.021 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 461 Time: 395.113 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 462 Time: 395.273 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 463 Time: 395.357 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 468 Time: 395.505 Mac: 4c-fb-45-d6-4-e5  SSID: SYSU-SECURE
+Seq: 472 Time: 414.554 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+21 
+Seq: 1742 Time: 401.501 Mac: 2c-f0-a2-79-9b-d4  SSID: SYSU-SECURE
+112d 
+Seq: 3288 Time: 402.928 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 3289 Time: 403.012 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3290 Time: 403.062 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3291 Time: 403.108 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3292 Time: 403.171 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3293 Time: 403.234 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3294 Time: 403.315 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3295 Time: 403.474 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 3296 Time: 403.591 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 3299 Time: 403.995 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3300 Time: 404.088 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3301 Time: 404.146 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3303 Time: 404.248 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3304 Time: 404.328 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3305 Time: 404.382 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 3306 Time: 404.445 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 3308 Time: 404.897 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 3309 Time: 404.97 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3310 Time: 405.042 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3311 Time: 405.116 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3319 Time: 405.703 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3320 Time: 405.753 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 3321 Time: 405.832 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 3322 Time: 405.9 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3323 Time: 405.968 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3324 Time: 406.04 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3325 Time: 406.236 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 3326 Time: 406.331 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+21 
+Seq: 3419 Time: 409.347 Mac: d0-65-ca-ce-97-f4  SSID: SYSU-SECURE
+1020 
+Seq: 449 Time: 412.407 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 450 Time: 412.913 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 451 Time: 413.082 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 452 Time: 413.237 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 453 Time: 413.508 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 459 Time: 413.728 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 461 Time: 413.777 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 472 Time: 414.615 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+1020 
+Seq: 449 Time: 412.427 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 450 Time: 412.939 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 451 Time: 413.124 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 452 Time: 413.33 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 453 Time: 413.535 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 461 Time: 413.9 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 472 Time: 414.636 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+1020 
+Seq: 449 Time: 412.482 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 450 Time: 412.988 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 451 Time: 413.146 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 452 Time: 413.401 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 472 Time: 414.702 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+1020 
+Seq: 449 Time: 412.524 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 450 Time: 413.008 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 451 Time: 413.197 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 452 Time: 413.445 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 472 Time: 414.722 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+1020 
+Seq: 449 Time: 412.754 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 450 Time: 413.051 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 451 Time: 413.225 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 452 Time: 413.461 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+1020 
+Seq: 449 Time: 412.802 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+Seq: 450 Time: 413.07 Mac: 9c-c1-72-ce-f3-80  SSID: SYSU-SECURE
+16f 
+Seq: 29 Time: 421.164 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 30 Time: 421.186 Mac: 74-23-44-ea-e7-62  SSID: aa
+21 
+Seq: 3741 Time: 429.592 Mac: fc-3f-7c-53-e7-1f  SSID: TP-LINK_B403
+Seq: 3860 Time: 457.065 Mac: fc-3f-7c-53-e7-1f  SSID: TP-LINK_B403
+Seq: 3862 Time: 457.199 Mac: fc-3f-7c-53-e7-1f  SSID: TP-LINK_B403
+Seq: 3864 Time: 457.291 Mac: fc-3f-7c-53-e7-1f  SSID: TP-LINK_B403
+2c 
+Seq: 1703 Time: 445.635 Mac: 68-df-dd-1f-49-f9  SSID: SYSU-SECURE
+Seq: 1704 Time: 445.7 Mac: 68-df-dd-1f-49-f9  SSID: SYSU-SECURE
+Seq: 1705 Time: 445.778 Mac: 68-df-dd-1f-49-f9  SSID: SYSU-SECURE
+Seq: 1706 Time: 445.953 Mac: 68-df-dd-1f-49-f9  SSID: SYSU-SECURE
+Seq: 1715 Time: 510.408 Mac: 68-df-dd-1f-49-f9  SSID: SYSU-SECURE
+Seq: 1716 Time: 510.467 Mac: 68-df-dd-1f-49-f9  SSID: SYSU-SECURE
+0 
+Seq: 854 Time: 449.374 Mac: 68-3e-34-22-80-b  SSID: Zhengjia-FreeWifi
+Seq: 855 Time: 449.43 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_6FC2
+Seq: 858 Time: 449.692 Mac: 68-3e-34-22-80-b  SSID: Zhengjia-FreeWifi
+Seq: 859 Time: 449.745 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_6FC2
+Seq: 860 Time: 449.76 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_C105
+112d 
+Seq: 3649 Time: 452.518 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3651 Time: 452.789 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3733 Time: 513.014 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 3735 Time: 513.129 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+2c 
+Seq: 54 Time: 457.889 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 55 Time: 457.958 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 56 Time: 458.004 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 58 Time: 458.071 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 60 Time: 458.122 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 62 Time: 458.184 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 158 Time: 458.573 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 166 Time: 500.338 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 167 Time: 500.353 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 168 Time: 500.399 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 170 Time: 500.447 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 178 Time: 500.566 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 290 Time: 529.902 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 291 Time: 529.955 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 292 Time: 529.994 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 294 Time: 530.076 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 298 Time: 530.184 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 299 Time: 530.293 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 300 Time: 530.373 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 302 Time: 530.442 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 303 Time: 530.46 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 304 Time: 530.511 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 384 Time: 530.775 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 386 Time: 530.816 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 387 Time: 530.888 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 388 Time: 530.961 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 390 Time: 531.013 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 394 Time: 556.773 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 395 Time: 556.847 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 396 Time: 556.863 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 398 Time: 556.941 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 399 Time: 556.958 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 400 Time: 557.04 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 401 Time: 557.1 Mac: 14-f6-5a-9c-d6-16  SSID: Meizu
+Seq: 490 Time: 558.497 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 491 Time: 558.606 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 492 Time: 558.653 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 506 Time: 594.335 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 507 Time: 594.353 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 508 Time: 594.394 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 510 Time: 594.436 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 511 Time: 594.449 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 512 Time: 594.505 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 514 Time: 594.573 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 520 Time: 594.638 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 638 Time: 635.604 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 639 Time: 635.658 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 640 Time: 635.673 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 642 Time: 635.711 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 643 Time: 635.755 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 644 Time: 635.772 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 651 Time: 635.887 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 740 Time: 636.363 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 742 Time: 636.421 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 743 Time: 636.476 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 744 Time: 636.511 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 755 Time: 664.131 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 756 Time: 664.194 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 758 Time: 664.251 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 759 Time: 664.296 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 760 Time: 664.313 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 864 Time: 664.453 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 866 Time: 664.508 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 867 Time: 664.522 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 868 Time: 664.575 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 870 Time: 684.204 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 871 Time: 684.221 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 875 Time: 684.333 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 878 Time: 684.451 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 880 Time: 684.544 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 994 Time: 727.555 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 995 Time: 727.599 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 996 Time: 727.613 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 999 Time: 727.676 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1000 Time: 727.776 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1007 Time: 727.886 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1098 Time: 768.252 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1099 Time: 768.302 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1100 Time: 768.316 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1102 Time: 768.358 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1103 Time: 768.403 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1104 Time: 768.421 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1112 Time: 768.575 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1199 Time: 769.564 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1200 Time: 769.579 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+21 
+Seq: 3721 Time: 464.635 Mac: d0-65-ca-ce-97-f4  SSID: SYSU-SECURE
+20 
+Seq: 11 Time: 468.837 Mac: 38-48-4c-2d-16-6d  SSID: SYSU-SECURE
+Seq: 68 Time: 492.228 Mac: 38-48-4c-2d-16-6d  SSID: SYSU-SECURE
+Seq: 133 Time: 511.666 Mac: 38-48-4c-2d-16-6d  SSID: SYSU-SECURE
+Seq: 201 Time: 547.963 Mac: 38-48-4c-2d-16-6d  SSID: SYSU-SECURE
+16f 
+Seq: 252 Time: 470.057 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+112d 
+Seq: 40 Time: 471.784 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 41 Time: 471.84 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 42 Time: 471.91 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 43 Time: 472.054 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 44 Time: 472.201 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 45 Time: 472.259 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 46 Time: 472.314 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 47 Time: 472.468 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 48 Time: 472.559 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 50 Time: 472.696 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 51 Time: 472.749 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 52 Time: 472.813 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 53 Time: 472.865 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 54 Time: 472.947 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 55 Time: 473.182 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 56 Time: 473.21 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 57 Time: 473.226 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 71 Time: 473.941 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 72 Time: 473.995 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 75 Time: 474.233 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 76 Time: 474.332 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 77 Time: 474.392 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 78 Time: 474.465 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+16e 
+Seq: 3939 Time: 484.144 Mac: 3c-b6-b7-cb-6a-61  SSID: EMCC-EASY
+Seq: 3941 Time: 484.199 Mac: 3c-b6-b7-cb-6a-61  SSID: useradmin
+Seq: 3942 Time: 484.216 Mac: 3c-b6-b7-cb-6a-61  SSID: CMCC―EASY
+Seq: 3944 Time: 484.33 Mac: 3c-b6-b7-cb-6a-61  SSID: EMCC-EASY
+116f 
+Seq: 831 Time: 489.206 Mac: a4-71-74-48-df-1c  SSID: SYSU-SECURE
+112d 
+Seq: 467 Time: 501.748 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 468 Time: 501.825 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 469 Time: 501.895 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 470 Time: 501.956 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 471 Time: 502.018 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 472 Time: 502.109 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 473 Time: 502.164 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 474 Time: 502.334 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 475 Time: 502.46 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 477 Time: 502.605 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 478 Time: 502.704 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 479 Time: 502.762 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 480 Time: 502.82 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 481 Time: 502.885 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 482 Time: 503.099 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 483 Time: 503.196 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 484 Time: 503.254 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 487 Time: 503.41 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 489 Time: 503.528 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+6e 
+Seq: 2135 Time: 506.977 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+Seq: 2136 Time: 506.998 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+21 
+Seq: 1652 Time: 514.199 Mac: 9c-fc-1-99-a0-d8  SSID: SYSU-SECURE
+20 
+Seq: 46 Time: 515.38 Mac: 2e-1f-cd-f5-ac-6  SSID: 2013013131
+Seq: 51 Time: 515.564 Mac: 2e-1f-cd-f5-ac-6  SSID: 2013013131
+0 
+Seq: 2546 Time: 518.636 Mac: 68-3e-34-66-5e-df  SSID: f��
+Seq: 2581 Time: 585.138 Mac: 80-41-4e-3c-c1-e8  SSID: 正永科技
+12c 
+Seq: 3882 Time: 519.111 Mac: a8-1b-5a-1f-61-64  SSID: xjpz
+Seq: 3883 Time: 519.135 Mac: a8-1b-5a-1f-61-64  SSID: mmmmmmm
+Seq: 3884 Time: 519.149 Mac: a8-1b-5a-1f-61-64  SSID: HongMenYan
+Seq: 3885 Time: 519.166 Mac: a8-1b-5a-1f-61-64  SSID: HJNBG
+Seq: 3886 Time: 519.253 Mac: a8-1b-5a-1f-61-64  SSID: XYTYK
+Seq: 3887 Time: 519.274 Mac: a8-1b-5a-1f-61-64  SSID: LCJD-HC
+Seq: 3888 Time: 519.284 Mac: a8-1b-5a-1f-61-64  SSID: 水上假日酒店
+Seq: 3889 Time: 519.328 Mac: a8-1b-5a-1f-61-64  SSID: CMCC-SPT
+Seq: 3891 Time: 519.346 Mac: a8-1b-5a-1f-61-64  SSID: xjpz
+Seq: 3892 Time: 519.404 Mac: a8-1b-5a-1f-61-64  SSID: mmmmmmm
+Seq: 3893 Time: 519.426 Mac: a8-1b-5a-1f-61-64  SSID: HongMenYan
+Seq: 3894 Time: 519.436 Mac: a8-1b-5a-1f-61-64  SSID: HJNBG
+Seq: 3896 Time: 519.557 Mac: a8-1b-5a-1f-61-64  SSID: LCJD-HC
+Seq: 3897 Time: 519.601 Mac: a8-1b-5a-1f-61-64  SSID: 水上假日酒店
+Seq: 3898 Time: 519.649 Mac: a8-1b-5a-1f-61-64  SSID: CMCC-SPT
+Seq: 3900 Time: 519.757 Mac: a8-1b-5a-1f-61-64  SSID: xjpz
+Seq: 3901 Time: 519.824 Mac: a8-1b-5a-1f-61-64  SSID: mmmmmmm
+Seq: 3902 Time: 519.854 Mac: a8-1b-5a-1f-61-64  SSID: HongMenYan
+Seq: 3903 Time: 519.865 Mac: a8-1b-5a-1f-61-64  SSID: HJNBG
+Seq: 3904 Time: 519.983 Mac: a8-1b-5a-1f-61-64  SSID: XYTYK
+Seq: 3906 Time: 520.031 Mac: a8-1b-5a-1f-61-64  SSID: 水上假日酒店
+Seq: 3907 Time: 520.134 Mac: a8-1b-5a-1f-61-64  SSID: CMCC-SPT
+Seq: 3911 Time: 520.205 Mac: a8-1b-5a-1f-61-64  SSID: HongMenYan
+Seq: 3913 Time: 520.23 Mac: a8-1b-5a-1f-61-64  SSID: XYTYK
+Seq: 3914 Time: 520.242 Mac: a8-1b-5a-1f-61-64  SSID: LCJD-HC
+Seq: 3915 Time: 520.346 Mac: a8-1b-5a-1f-61-64  SSID: 水上假日酒店
+Seq: 3919 Time: 520.426 Mac: a8-1b-5a-1f-61-64  SSID: mmmmmmm
+Seq: 3920 Time: 520.447 Mac: a8-1b-5a-1f-61-64  SSID: HongMenYan
+Seq: 3922 Time: 520.492 Mac: a8-1b-5a-1f-61-64  SSID: XYTYK
+112d 
+Seq: 890 Time: 520.889 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 892 Time: 521.029 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 893 Time: 521.104 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 894 Time: 521.236 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 895 Time: 521.31 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 896 Time: 521.376 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 897 Time: 521.399 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 898 Time: 521.457 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 900 Time: 521.707 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 901 Time: 521.766 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 903 Time: 521.855 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 904 Time: 521.91 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 905 Time: 522.19 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 907 Time: 522.278 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 908 Time: 522.33 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 910 Time: 522.574 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 911 Time: 522.632 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 912 Time: 522.71 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 914 Time: 522.792 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 924 Time: 522.953 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 925 Time: 523.011 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 926 Time: 523.083 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 927 Time: 523.186 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 1103 Time: 584.285 Mac: 24-1f-a0-7e-18-7f  SSID: SYSU-SECURE
+1ad 
+Seq: 2449 Time: 528.122 Mac: 60-f1-89-7f-5d-8c  SSID: SYSU-SECURE
+Seq: 2450 Time: 528.179 Mac: 60-f1-89-7f-5d-8c  SSID: SYSU-SECURE
+0 
+Seq: 1609 Time: 529.732 Mac: 68-df-dd-ff-29-cc  SSID: hzq
+9aab 
+Seq: 296 Time: 530.124 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+12c 
+Seq: 2327 Time: 530.587 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+Seq: 2424 Time: 566.057 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+12c 
+Seq: 2327 Time: 530.613 Mac: 6c-5c-14-2d-e7-24  SSID: SYSU-SECURE
+21 
+Seq: 3489 Time: 531.428 Mac: c0-bd-d1-26-39-97  SSID: XTJDwifi
+Seq: 3491 Time: 531.488 Mac: c0-bd-d1-26-39-97  SSID: HuiFengLunTai
+Seq: 3492 Time: 531.517 Mac: c0-bd-d1-26-39-97  SSID: XTJDwifi
+Seq: 3503 Time: 539.708 Mac: ee-d6-23-2e-c4-9f  SSID: rcdd409
+Seq: 3505 Time: 540.057 Mac: ee-d6-23-2e-c4-9f  SSID: rcdd409
+Seq: 3658 Time: 548.557 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+Seq: 3660 Time: 548.619 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+2d 
+Seq: 599 Time: 537.624 Mac:  0-cd-fe-56-45-e2  SSID: SYSU-SECURE
+112d 
+Seq: 1329 Time: 541.641 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1330 Time: 541.71 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1332 Time: 541.82 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 1333 Time: 541.9 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 1334 Time: 541.994 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 1335 Time: 542.073 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 1336 Time: 542.2 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 1337 Time: 542.409 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 1339 Time: 542.713 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1340 Time: 542.792 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1341 Time: 542.861 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1342 Time: 542.944 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 1343 Time: 543.044 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 1344 Time: 543.1 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 1345 Time: 543.149 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 1347 Time: 543.222 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 1364 Time: 543.561 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+2d 
+Seq: 3039 Time: 544.836 Mac: a0-3b-e3-d0-b-6d  SSID: SYSU-SECURE
+112d 
+Seq: 1751 Time: 557.766 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 1752 Time: 557.865 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1753 Time: 557.988 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1754 Time: 558.205 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1755 Time: 558.326 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1756 Time: 558.701 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 1757 Time: 558.723 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 1758 Time: 558.791 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 1759 Time: 558.846 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 1761 Time: 559.055 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 1762 Time: 559.147 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1763 Time: 559.26 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1764 Time: 559.388 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1765 Time: 559.448 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 1766 Time: 559.503 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 1768 Time: 559.568 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 1769 Time: 559.657 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 1772 Time: 559.938 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1773 Time: 559.992 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1782 Time: 560.272 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+12c 
+Seq: 1998 Time: 566.93 Mac: 24-df-6a-99-1d-e2  SSID: LGU+-9215E0
+20 
+Seq: 1970 Time: 579.25 Mac:  c-1d-af-5b-13-63  SSID: 1XiaoMiZhuShou
+Seq: 1972 Time: 579.305 Mac:  c-1d-af-5b-13-63  SSID: GD-Lib
+112d 
+Seq: 2185 Time: 580.986 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2186 Time: 581.049 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2187 Time: 581.116 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2188 Time: 581.186 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 2189 Time: 581.256 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 2190 Time: 581.326 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 2191 Time: 581.382 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 2193 Time: 581.448 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 2195 Time: 581.596 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2197 Time: 581.752 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2198 Time: 581.834 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 2199 Time: 582.01 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 2200 Time: 582.117 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 2201 Time: 582.18 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 2202 Time: 582.247 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 2203 Time: 582.364 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 2206 Time: 582.53 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2213 Time: 582.73 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 2215 Time: 582.841 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2216 Time: 582.899 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2218 Time: 582.969 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 2219 Time: 583.046 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+2d 
+Seq: 3715 Time: 584.195 Mac: a4-f1-e8-d1-49-84  SSID: SYSU-SECURE
+Seq: 3722 Time: 584.49 Mac: a4-f1-e8-d1-49-84  SSID: SYSU-SECURE
+2d 
+Seq: 4006 Time: 585.701 Mac:  c-51-1-63-3c-83  SSID: SYSU-SECURE
+20 
+Seq: 8 Time: 601.772 Mac: f4-8b-32-a8-7b-78  SSID: 
+2d 
+Seq: 2829 Time: 605.392 Mac: 90-b6-86-8e-f7-ab  SSID: fary
+112d 
+Seq: 2603 Time: 607.827 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 2604 Time: 607.916 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 2605 Time: 607.982 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 2606 Time: 608.175 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2607 Time: 608.309 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2608 Time: 608.374 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 2609 Time: 608.478 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 2610 Time: 608.536 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 2611 Time: 608.596 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 2616 Time: 608.667 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 2617 Time: 608.732 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 2618 Time: 608.789 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 2619 Time: 608.843 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 2621 Time: 609.092 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+1ad 
+Seq: 1202 Time: 612.085 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+Seq: 1204 Time: 612.185 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+Seq: 1283 Time: 642.43 Mac: a4-8-ea-5a-57-30  SSID: DESKTOP-JGNQOFN 2148
+12c 
+Seq: 336 Time: 614.404 Mac: a8-1b-5a-1f-61-64  SSID: TP-LINK_A51D
+Seq: 337 Time: 614.618 Mac: a8-1b-5a-1f-61-64  SSID: 衣间道访客
+Seq: 338 Time: 614.779 Mac: a8-1b-5a-1f-61-64  SSID: dj
+Seq: 339 Time: 614.883 Mac: a8-1b-5a-1f-61-64  SSID: 朋林烧烤免费WiFi
+Seq: 340 Time: 614.946 Mac: a8-1b-5a-1f-61-64  SSID: QCXW
+Seq: 341 Time: 615.052 Mac: a8-1b-5a-1f-61-64  SSID: dexx1
+Seq: 342 Time: 615.205 Mac: a8-1b-5a-1f-61-64  SSID: 陶陶居-丽影广场店
+1020 
+Seq: 596 Time: 621.918 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 597 Time: 621.943 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 598 Time: 621.993 Mac: ac-cf-85-c4-e9-80  SSID: Maths208
+Seq: 605 Time: 622.16 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 804 Time: 632.003 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 805 Time: 632.071 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 806 Time: 632.1 Mac: ac-cf-85-c4-e9-80  SSID: Maths208
+Seq: 812 Time: 632.239 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+Seq: 813 Time: 632.287 Mac: ac-cf-85-c4-e9-80  SSID: _SSID
+112d 
+Seq: 3035 Time: 623.828 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 3036 Time: 623.882 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 3037 Time: 623.947 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 3038 Time: 623.97 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 3040 Time: 624.109 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 3042 Time: 624.286 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 3044 Time: 624.388 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 3046 Time: 624.471 Mac: 48-5a-3f-f-e6-5f  SSID: �k�Eg�
+Seq: 3047 Time: 624.532 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 3049 Time: 624.609 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 3051 Time: 624.705 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+0 
+Seq: 937 Time: 625.56 Mac: 68-3e-34-22-80-b  SSID: HAX@f��
+Seq: 938 Time: 625.585 Mac: 68-3e-34-22-80-b  SSID: 百米生活-Thankumom
+Seq: 939 Time: 625.634 Mac: 68-3e-34-22-80-b  SSID: scut
+Seq: 941 Time: 625.791 Mac: 68-3e-34-22-80-b  SSID: Rainbow_Free_WIFI
+Seq: 942 Time: 625.813 Mac: 68-3e-34-22-80-b  SSID: 百米生活-Thankumom
+Seq: 1025 Time: 647.294 Mac: 68-3e-34-22-80-b  SSID: dxqmzb2
+Seq: 1026 Time: 647.4 Mac: 68-3e-34-22-80-b  SSID: snyn2016
+Seq: 1027 Time: 647.547 Mac: 68-3e-34-22-80-b  SSID: 点都德
+Seq: 1029 Time: 647.628 Mac: 68-3e-34-22-80-b  SSID: dxqmzb2
+Seq: 1030 Time: 647.719 Mac: 68-3e-34-22-80-b  SSID: snyn2016
+Seq: 1031 Time: 647.741 Mac: 68-3e-34-22-80-b  SSID: 点都德
+Seq: 1111 Time: 650.886 Mac: 68-3e-34-22-80-b  SSID: Zhengjia-FreeWifi
+Seq: 1112 Time: 650.941 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_6FC2
+Seq: 1113 Time: 650.96 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_C105
+Seq: 1115 Time: 651.151 Mac: 68-3e-34-22-80-b  SSID: Zhengjia-FreeWifi
+Seq: 1116 Time: 651.173 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_6FC2
+Seq: 1117 Time: 651.216 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_C105
+Seq: 1119 Time: 651.327 Mac: 68-3e-34-22-80-b  SSID: Zhengjia-FreeWifi
+2d 
+Seq: 3471 Time: 637.9 Mac: 70-48-f-1-34-f9  SSID: SYSU-SECURE
+6e 
+Seq: 2272 Time: 656.879 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+Seq: 2273 Time: 656.902 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+16e 
+Seq: 938 Time: 661.369 Mac: da-a1-19-6b-d5-40  SSID: SYSU-SECURE
+2d 
+Seq: 2828 Time: 663.984 Mac: 8c-8e-f2-57-1-74  SSID: SYSU-SECURE
+Seq: 2829 Time: 664.05 Mac: 8c-8e-f2-57-1-74  SSID: SYSU-SECURE
+112d 
+Seq: 253 Time: 671.963 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 254 Time: 672.037 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 255 Time: 672.106 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 256 Time: 672.283 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 257 Time: 672.409 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 258 Time: 672.471 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 259 Time: 672.668 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 261 Time: 672.815 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 263 Time: 672.932 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 264 Time: 672.999 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 265 Time: 673.056 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 266 Time: 673.115 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 267 Time: 673.178 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 268 Time: 673.225 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 269 Time: 673.304 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 270 Time: 673.354 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 271 Time: 673.406 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+Seq: 280 Time: 673.533 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 281 Time: 673.6 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-chaowifi
+21 
+Seq: 3569 Time: 677.925 Mac: 2e-18-98-d1-51-c3  SSID: rcdd409
+Seq: 3748 Time: 699.286 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+2d 
+Seq: 3760 Time: 705.713 Mac: a4-f1-e8-d1-49-84  SSID: SYSU-SECURE
+112d 
+Seq: 693 Time: 709.135 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 694 Time: 709.347 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 695 Time: 709.395 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 698 Time: 709.466 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 699 Time: 709.516 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 700 Time: 709.557 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 703 Time: 709.695 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-tgrass wifi
+Seq: 704 Time: 709.719 Mac: 48-5a-3f-f-e6-5f  SSID: YunWiFiFree
+Seq: 705 Time: 709.865 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 706 Time: 710.069 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 707 Time: 710.168 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 708 Time: 710.226 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 709 Time: 710.276 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 710 Time: 710.344 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 711 Time: 710.398 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 717 Time: 710.635 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 718 Time: 710.68 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 719 Time: 710.772 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 721 Time: 710.835 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+Seq: 725 Time: 710.95 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 730 Time: 711.01 Mac: 48-5a-3f-f-e6-5f  SSID: xingjue_zxg
+Seq: 731 Time: 711.08 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+cc86 
+Seq: 701 Time: 709.601 Mac: 48-5a-3f-f-e6-5f  SSID: Qingzhen
+c0fb 
+Seq: 716 Time: 710.574 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+112d 
+Seq: 1118 Time: 729.58 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 1122 Time: 729.653 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-wigo wifi
+Seq: 1123 Time: 729.731 Mac: 48-5a-3f-f-e6-5f  SSID: WiFiSong_Free_WiFi
+Seq: 1124 Time: 729.877 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1125 Time: 729.986 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1126 Time: 730.05 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+Seq: 1128 Time: 730.105 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-samtonWiFi
+Seq: 1134 Time: 730.173 Mac: 48-5a-3f-f-e6-5f  SSID: tencent-BsWifi
+Seq: 1135 Time: 730.223 Mac: 48-5a-3f-f-e6-5f  SSID: feeling coffee
+Seq: 1136 Time: 730.277 Mac: 48-5a-3f-f-e6-5f  SSID: baoan
+112d 
+Seq: 1078 Time: 731.066 Mac: 94-fe-22-cc-25-50  SSID: SYSU-SECURE

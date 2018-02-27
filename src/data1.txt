@@ -1,0 +1,1207 @@
+45 
+Seq: 1234 Time: 4.071 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1242 Time: 4.202 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+21 
+Seq: 2578 Time: 9.491 Mac: c0-cc-f8-e9-9f-d7  SSID: SYSU-SECURE
+Seq: 2603 Time: 71.87 Mac: 60-83-34-73-f2-ec  SSID: SYSU-SECURE
+20 
+Seq: 15 Time: 10.565 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 17 Time: 10.643 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 19 Time: 10.89 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+12c 
+Seq: 1296 Time: 11.052 Mac: a8-1b-5a-30-ae-86  SSID: gongjinan
+Seq: 1297 Time: 11.066 Mac: a8-1b-5a-30-ae-86  SSID: 123123
+Seq: 1298 Time: 11.075 Mac: a8-1b-5a-30-ae-86  SSID: OPPO
+Seq: 1301 Time: 11.142 Mac: a8-1b-5a-30-ae-86  SSID: gongjinan
+Seq: 1302 Time: 11.151 Mac: a8-1b-5a-30-ae-86  SSID: 123123
+Seq: 1303 Time: 11.196 Mac: a8-1b-5a-30-ae-86  SSID: OPPO
+Seq: 1304 Time: 11.206 Mac: a8-1b-5a-30-ae-86  SSID: 114 Free
+Seq: 1306 Time: 11.286 Mac: a8-1b-5a-30-ae-86  SSID: gongjinan
+Seq: 1308 Time: 11.299 Mac: a8-1b-5a-30-ae-86  SSID: OPPO
+Seq: 1309 Time: 11.479 Mac: a8-1b-5a-30-ae-86  SSID: 114 Free
+Seq: 1312 Time: 11.541 Mac: a8-1b-5a-30-ae-86  SSID: 123123
+Seq: 1460 Time: 44.97 Mac: 20-82-c0-bb-80-96  SSID: FAST_963A
+Seq: 1461 Time: 45.002 Mac: 20-82-c0-bb-80-96  SSID: Wi-F
+Seq: 1462 Time: 45.048 Mac: 20-82-c0-bb-80-96  SSID: lab529
+Seq: 1464 Time: 45.168 Mac: 20-82-c0-bb-80-96  SSID: lab529
+2d 
+Seq: 3987 Time: 15.955 Mac: 90-b6-86-e2-a7-f6  SSID: SYSU-SECURE
+112d 
+Seq: 793 Time: 28.883 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 795 Time: 28.968 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 879 Time: 72.734 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 881 Time: 72.846 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 967 Time: 92.147 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 969 Time: 92.532 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1052 Time: 137.394 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1054 Time: 137.626 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1056 Time: 137.78 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1058 Time: 137.904 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1140 Time: 186.24 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1142 Time: 186.325 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1228 Time: 233.081 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1230 Time: 233.186 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1315 Time: 286.264 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1317 Time: 286.679 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1319 Time: 286.875 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1402 Time: 337.843 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1404 Time: 337.945 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1406 Time: 338.074 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1408 Time: 338.268 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1490 Time: 387.193 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1492 Time: 387.379 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1576 Time: 428.687 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1578 Time: 428.989 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1580 Time: 429.129 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1656 Time: 465.154 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1658 Time: 465.259 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1660 Time: 465.456 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1663 Time: 465.54 Mac: d0-22-be-cb-e4-66  SSID: CN 
+Seq: 1744 Time: 507.413 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1746 Time: 507.519 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1750 Time: 507.614 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1832 Time: 550.363 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1834 Time: 550.628 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1836 Time: 550.759 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1838 Time: 550.844 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1920 Time: 560.921 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1922 Time: 560.998 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 1924 Time: 561.143 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2008 Time: 607.866 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2010 Time: 608.214 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2012 Time: 608.359 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2014 Time: 608.431 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2095 Time: 655.342 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2097 Time: 655.479 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2101 Time: 655.699 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2103 Time: 655.754 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2185 Time: 701.007 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2187 Time: 701.191 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2271 Time: 743.793 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2273 Time: 743.874 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2277 Time: 744.041 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2355 Time: 788.832 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2357 Time: 788.951 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2441 Time: 841.813 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2443 Time: 842.098 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2445 Time: 842.448 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+Seq: 2447 Time: 842.599 Mac: d0-22-be-cb-e4-66  SSID: xuzhencheng
+0 
+Seq: 1403 Time: 36.486 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1405 Time: 36.686 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1447 Time: 51.114 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1449 Time: 51.236 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1493 Time: 138.935 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1535 Time: 189.964 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1579 Time: 213.292 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1581 Time: 213.579 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1622 Time: 238.984 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1624 Time: 239.298 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1666 Time: 281.567 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1668 Time: 282.043 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1710 Time: 366.085 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1712 Time: 366.163 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1754 Time: 453.546 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1756 Time: 453.602 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+21 
+Seq: 3166 Time: 37.592 Mac: 2c-f0-a2-7e-58-b8  SSID: SYSU-SECURE
+Seq: 3167 Time: 37.647 Mac: 2c-f0-a2-7e-58-b8  SSID: SYSU-SECURE
+21 
+Seq: 1433 Time: 41.164 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 1500 Time: 52.57 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 1544 Time: 56.724 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 1589 Time: 63.813 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 1675 Time: 118.555 Mac: cc-25-ef-aa-e9-79  SSID: SYSU-SECURE
+Seq: 1676 Time: 118.61 Mac: cc-25-ef-aa-e9-79  SSID: SYSU-SECURE
+Seq: 1871 Time: 136.426 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2033 Time: 164.88 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2155 Time: 193.264 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2309 Time: 239.428 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2361 Time: 253.244 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2436 Time: 276.039 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2487 Time: 287.377 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2601 Time: 339.384 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 2612 Time: 400.655 Mac: d0-65-ca-ce-97-f4  SSID: itell
+Seq: 2614 Time: 400.709 Mac: d0-65-ca-ce-97-f4  SSID: itell
+Seq: 2798 Time: 422.995 Mac: e0-a3-ac-c8-30-d6  SSID: SYSU-SECURE
+Seq: 2799 Time: 423.048 Mac: e0-a3-ac-c8-30-d6  SSID: SYSU-SECURE
+112d 
+Seq: 1867 Time: 43.366 Mac: 44-6e-e5-9f-f3-7d  SSID: SYSU-SECURE
+Seq: 1868 Time: 43.452 Mac: 44-6e-e5-9f-f3-7d  SSID: SYSU-SECURE
+Seq: 1941 Time: 54.132 Mac: 44-6e-e5-9f-f3-7d  SSID: SYSU-SECURE
+Seq: 1942 Time: 54.202 Mac: 44-6e-e5-9f-f3-7d  SSID: SYSU-SECURE
+adb1 
+Seq: 1463 Time: 45.095 Mac: 20-82-c0-bb-80-96  SSID: LMQ
+16f 
+Seq: 846 Time: 47.827 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 849 Time: 48.049 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 850 Time: 48.152 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 853 Time: 48.272 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 956 Time: 74.039 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 959 Time: 74.118 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 960 Time: 74.183 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 963 Time: 74.331 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1069 Time: 110.649 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1070 Time: 110.705 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1176 Time: 178.753 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1179 Time: 178.855 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1180 Time: 178.955 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1183 Time: 179.01 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1286 Time: 216.332 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1289 Time: 216.422 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1396 Time: 261.326 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1399 Time: 261.398 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1400 Time: 261.461 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1403 Time: 261.664 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1509 Time: 268.201 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1510 Time: 268.42 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+Seq: 1513 Time: 268.633 Mac: 38-a4-ed-b8-d1-ff  SSID: MF910_EBB1F5
+16e 
+Seq: 3302 Time: 56.859 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3121 Time: 63.865 Mac: 74-23-44-4d-3b-98  SSID: JayFan
+Seq: 3123 Time: 63.985 Mac: 74-23-44-4d-3b-98  SSID: JayFan
+Seq: 3125 Time: 64.038 Mac: 74-23-44-4d-3b-98  SSID: JayFan
+2d 
+Seq: 2540 Time: 63.941 Mac: 26-28-db-f6-10-b5  SSID: 206 2
+Seq: 2542 Time: 64.056 Mac: 26-28-db-f6-10-b5  SSID: 206 2
+0 
+Seq: 590 Time: 66.176 Mac: 68-3e-34-22-80-b  SSID: Zhengjia-FreeWifi
+Seq: 591 Time: 66.262 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_6FC2
+Seq: 592 Time: 66.284 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_C105
+Seq: 594 Time: 66.333 Mac: 68-3e-34-22-80-b  SSID: Zhengjia-FreeWifi
+Seq: 595 Time: 66.349 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_6FC2
+Seq: 596 Time: 66.403 Mac: 68-3e-34-22-80-b  SSID: TP-LINK_C105
+16e 
+Seq: 3629 Time: 78.537 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 3630 Time: 78.585 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 3631 Time: 78.644 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 3634 Time: 78.703 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 3635 Time: 78.75 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+16e 
+Seq: 1031 Time: 86.841 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1033 Time: 86.899 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1035 Time: 86.975 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1037 Time: 87.084 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1039 Time: 87.192 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1041 Time: 87.237 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1147 Time: 132.217 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1149 Time: 132.29 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1153 Time: 132.369 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1253 Time: 142.76 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1255 Time: 142.825 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1257 Time: 142.89 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1259 Time: 143.011 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1263 Time: 143.15 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1354 Time: 195.1 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+16e 
+Seq: 3847 Time: 98.904 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+21 
+Seq: 435 Time: 100.031 Mac: 9c-fc-1-a2-77-30  SSID: SYSU-SECURE
+Seq: 436 Time: 100.087 Mac: 9c-fc-1-a2-77-30  SSID: SYSU-SECURE
+21 
+Seq: 1217 Time: 101.207 Mac: 22-84-e8-e6-fa-b5  SSID: 小可可的鬼眼
+112d 
+Seq: 3781 Time: 101.996 Mac: d0-22-be-5d-ec-77  SSID: JXP
+Seq: 3783 Time: 102.444 Mac: d0-22-be-5d-ec-77  SSID: JXP
+Seq: 3867 Time: 214.133 Mac: d0-22-be-5d-ec-77  SSID: JXP
+Seq: 3869 Time: 214.278 Mac: d0-22-be-5d-ec-77  SSID: JXP
+Seq: 3871 Time: 214.447 Mac: d0-22-be-5d-ec-77  SSID: JXP
+20 
+Seq: 12 Time: 102.779 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 14 Time: 102.954 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 16 Time: 103.187 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 17 Time: 194.724 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+0 
+Seq: 3436 Time: 107.914 Mac: da-a1-19-d9-4c-0  SSID: SYSU-SECURE
+21 
+Seq: 2880 Time: 119.902 Mac: c2-9b-76-f-26-bb  SSID: 1
+Seq: 2882 Time: 120.003 Mac: c2-9b-76-f-26-bb  SSID: 1
+1ad 
+Seq: 3406 Time: 123.533 Mac: 60-f1-89-f2-3a-50  SSID: SYSU-SECURE
+Seq: 3408 Time: 123.698 Mac: 60-f1-89-f2-3a-50  SSID: SYSU-SECURE
+2d 
+Seq: 1433 Time: 137.268 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1441 Time: 137.574 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1474 Time: 146.869 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1482 Time: 147.037 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1519 Time: 152.141 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1527 Time: 152.799 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1601 Time: 209.437 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 1611 Time: 209.952 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+21 
+Seq: 1776 Time: 140.358 Mac: cc-25-ef-aa-e9-79  SSID: SYSU-SECURE
+Seq: 1819 Time: 159.477 Mac: cc-25-ef-aa-e9-79  SSID: SYSU-SECURE
+Seq: 1932 Time: 227.069 Mac: cc-25-ef-aa-e9-79  SSID: SYSU-SECURE
+21 
+Seq: 2483 Time: 149.765 Mac: d0-65-ca-ce-97-f4  SSID: itell
+Seq: 2485 Time: 149.88 Mac: d0-65-ca-ce-97-f4  SSID: itell
+16e 
+Seq: 414 Time: 154.456 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+2d 
+Seq: 1819 Time: 155.737 Mac: 28-a0-2b-63-75-8  SSID: SYSU-SECURE
+Seq: 1855 Time: 159.556 Mac: 28-a0-2b-63-75-8  SSID: SYSU-SECURE
+Seq: 1863 Time: 165.92 Mac: 28-a0-2b-63-75-8  SSID: SYSU-SECURE
+Seq: 1877 Time: 173.101 Mac: 28-a0-2b-63-75-8  SSID: SYSU-SECURE
+Seq: 1884 Time: 174.622 Mac: 28-a0-2b-63-75-8  SSID: SYSU-SECURE
+Seq: 1913 Time: 184.806 Mac: 28-a0-2b-63-75-8  SSID: SYSU-SECURE
+Seq: 1920 Time: 185.079 Mac: 28-a0-2b-63-75-8  SSID: SYSU-SECURE
+21 
+Seq: 889 Time: 159.671 Mac: 9c-fc-1-db-26-89  SSID: SYSU-SECURE
+Seq: 947 Time: 172.436 Mac: 9c-fc-1-db-26-89  SSID: SYSU-SECURE
+Seq: 1033 Time: 187.726 Mac: 9c-fc-1-db-26-89  SSID: SYSU-SECURE
+Seq: 1067 Time: 194.161 Mac: 9c-fc-1-db-26-89  SSID: SYSU-SECURE
+Seq: 1075 Time: 198.04 Mac: 9c-fc-1-db-26-89  SSID: SYSU-SECURE
+21 
+Seq: 3387 Time: 160.527 Mac: 70-ec-e4-32-ea-59  SSID: SYSU-SECURE
+16e 
+Seq: 897 Time: 172.739 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 899 Time: 172.806 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 901 Time: 172.868 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 922 Time: 237.455 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 923 Time: 237.468 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 925 Time: 237.514 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+16e 
+Seq: 1114 Time: 178.155 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 1143 Time: 239.517 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+20 
+Seq: 3 Time: 179.205 Mac: 4e-f1-37-ee-9e-54  SSID: 2013013131
+Seq: 9 Time: 179.397 Mac: 4e-f1-37-ee-9e-54  SSID: 2013013131
+Seq: 15 Time: 194.538 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 16 Time: 290.766 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 17 Time: 386.598 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 19 Time: 386.776 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 21 Time: 462.294 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 64 Time: 532.52 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 65 Time: 532.577 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 89 Time: 541.473 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 91 Time: 541.645 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+21 
+Seq: 2341 Time: 183.282 Mac: dc-37-14-52-c8-71  SSID: SYSU-SECURE
+112d 
+Seq: 2674 Time: 184.405 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 2676 Time: 184.466 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 2678 Time: 184.539 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 2680 Time: 184.679 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+0 
+Seq: 678 Time: 188.785 Mac: 68-3e-34-22-80-b  SSID: Rainbow_Free_WIFI
+Seq: 679 Time: 188.854 Mac: 68-3e-34-22-80-b  SSID: 百米生活-Thankumom
+Seq: 680 Time: 188.886 Mac: 68-3e-34-22-80-b  SSID: scut
+Seq: 683 Time: 189.021 Mac: 68-3e-34-22-80-b  SSID: 百米生活-Thankumom
+0 
+Seq: 594 Time: 191.667 Mac: 48-6b-2c-ca-8c-28  SSID: 123456789
+6e 
+Seq: 1192 Time: 193.14 Mac: f8-a4-5f-9d-ae-3a  SSID: EAX"��$
+16e 
+Seq: 1565 Time: 196.043 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 1571 Time: 196.215 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 1573 Time: 245.891 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 1624 Time: 247.851 Mac: da-a1-19-2f-23-71  SSID: �
+Seq: 1803 Time: 248.76 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+2d 
+Seq: 2893 Time: 200.295 Mac: 5c-ad-cf-24-b1-b0  SSID: SYSU-SECURE
+Seq: 2984 Time: 251.008 Mac: 5c-ad-cf-24-b1-b0  SSID: SYSU-SECURE
+Seq: 2985 Time: 251.064 Mac: 5c-ad-cf-24-b1-b0  SSID: SYSU-SECURE
+Seq: 3028 Time: 260.296 Mac: 5c-ad-cf-24-b1-b0  SSID: SYSU-SECURE
+16e 
+Seq: 2438 Time: 205.863 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 2482 Time: 246.955 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2483 Time: 246.974 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2485 Time: 247.055 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2486 Time: 247.228 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2488 Time: 247.254 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2489 Time: 247.294 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2491 Time: 247.475 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2677 Time: 283.719 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2678 Time: 283.774 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2680 Time: 283.826 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2681 Time: 283.841 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2683 Time: 283.884 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+2d 
+Seq: 303 Time: 209.868 Mac: 28-a0-2b-3-c4-41  SSID: SYSU-SECURE
+16e 
+Seq: 3061 Time: 210.432 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 3062 Time: 210.53 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 3065 Time: 210.57 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 3066 Time: 210.636 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 3067 Time: 210.652 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+20 
+Seq: 232 Time: 211.757 Mac: b8-bc-1b-52-22-ab  SSID: 
+Seq: 284 Time: 287.01 Mac: b8-bc-1b-52-22-ab  SSID: SYSU-SECURE
+Seq: 285 Time: 287.096 Mac: b8-bc-1b-52-22-ab  SSID: SYSU-SECURE
+16e 
+Seq: 3490 Time: 215.529 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+16e 
+Seq: 3702 Time: 217.268 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+16e 
+Seq: 3918 Time: 222.997 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 3919 Time: 223.017 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 3923 Time: 223.062 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 3925 Time: 223.133 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 3926 Time: 223.148 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 3927 Time: 223.162 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 4090 Time: 240.565 Mac: 3c-b6-b7-c0-51-39  SSID: xinyujie
+Seq: 4091 Time: 240.585 Mac: 3c-b6-b7-c0-51-39  SSID: chenshuangc
+16e 
+Seq: 47 Time: 226.281 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+Seq: 50 Time: 226.362 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+16e 
+Seq: 265 Time: 228.652 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+Seq: 266 Time: 228.677 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 267 Time: 228.733 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+16f 
+Seq: 1197 Time: 232.804 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1199 Time: 232.852 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1201 Time: 232.898 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+21 
+Seq: 1505 Time: 234.184 Mac: 9a-8b-a7-66-7a-78  SSID: MaoAP
+Seq: 1507 Time: 235.86 Mac: a0-18-28-6b-5f-ac  SSID: SYSU-SECURE
+16e 
+Seq: 2278 Time: 234.26 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2279 Time: 234.392 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2281 Time: 234.489 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2282 Time: 234.529 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2284 Time: 234.743 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2285 Time: 234.833 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2287 Time: 234.907 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2288 Time: 234.924 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2291 Time: 234.984 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2293 Time: 235.054 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+Seq: 2294 Time: 235.071 Mac: 54-dc-1d-28-9f-14  SSID: 滑铁卢
+Seq: 2302 Time: 235.135 Mac: 54-dc-1d-28-9f-14  SSID: 小米手机
+12c 
+Seq: 1459 Time: 236.39 Mac:  4-2-1f-ac-55-a0  SSID: www.web.cufe
+Seq: 1461 Time: 236.463 Mac:  4-2-1f-ac-55-a0  SSID: www.web.cufe
+Seq: 1463 Time: 236.521 Mac:  4-2-1f-ac-55-a0  SSID: www.web.cufe
+Seq: 1465 Time: 236.644 Mac:  4-2-1f-ac-55-a0  SSID: www.web.cufe
+Seq: 1628 Time: 276.608 Mac: 58-44-98-b0-17-5f  SSID: 123
+Seq: 1630 Time: 276.661 Mac: 58-44-98-b0-17-5f  SSID: 123123
+2d 
+Seq: 3340 Time: 237.789 Mac: 64-b0-a6-9a-bf-e  SSID: SYSU-SECURE
+Seq: 3371 Time: 246.131 Mac: 64-b0-a6-9a-bf-e  SSID: SYSU-SECURE
+Seq: 3417 Time: 250.303 Mac: 64-b0-a6-9a-bf-e  SSID: SYSU-SECURE
+Seq: 3443 Time: 265.446 Mac: 64-b0-a6-9a-bf-e  SSID: SYSU-SECURE
+Seq: 3444 Time: 265.674 Mac: 64-b0-a6-9a-bf-e  SSID: SYSU-SECURE
+Seq: 3465 Time: 307.389 Mac: 64-b0-a6-9a-bf-e  SSID: SYSU-SECURE
+0 
+Seq: 518 Time: 243.245 Mac: 68-3e-34-32-2f-81  SSID: GDSZYY_UKang_Office
+2d 
+Seq: 735 Time: 245.396 Mac: 80-ed-2c-34-7c-cd  SSID: SYSU-SECURE
+Seq: 736 Time: 245.467 Mac: 80-ed-2c-34-7c-cd  SSID: SYSU-SECURE
+Seq: 928 Time: 307.572 Mac: 80-ed-2c-34-7c-cd  SSID: SYSU-SECURE
+16e 
+Seq: 1570 Time: 245.831 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+16e 
+Seq: 2265 Time: 252.817 Mac: 64-cc-2e-7d-83-52  SSID: TP-LINK_A29922
+180c 
+Seq: 4066 Time: 254.549 Mac: 98-3-d8-71-ec-d8  SSID: gz020jd
+16e 
+Seq: 2702 Time: 256.253 Mac: 64-cc-2e-7d-83-52  SSID: Witi9933
+Seq: 2703 Time: 256.278 Mac: 64-cc-2e-7d-83-52  SSID: witi9933
+1ef 
+Seq: 1836 Time: 275.113 Mac: b0-e2-35-41-40-7b  SSID: sl100
+112d 
+Seq: 846 Time: 280.213 Mac: 98-e7-f5-f-41-e7  SSID: SYSU-SECURE
+Seq: 960 Time: 289.629 Mac: 98-e7-f5-f-41-e7  SSID: SYSU-SECURE
+21 
+Seq: 1466 Time: 289.702 Mac: 9c-fc-1-db-26-89  SSID: SYSU-SECURE
+Seq: 1498 Time: 296.373 Mac: 9c-fc-1-db-26-89  SSID: SYSU-SECURE
+20 
+Seq: 12 Time: 290.412 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 14 Time: 290.567 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+1020 
+Seq: 1650 Time: 291.911 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1651 Time: 292.152 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1652 Time: 292.719 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1653 Time: 293.171 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1778 Time: 300.195 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1780 Time: 300.323 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+1020 
+Seq: 1650 Time: 291.969 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1651 Time: 292.206 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1652 Time: 292.818 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1653 Time: 293.186 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1778 Time: 300.218 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1780 Time: 300.34 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+1020 
+Seq: 1650 Time: 291.986 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1651 Time: 292.224 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1652 Time: 292.84 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1780 Time: 300.351 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+1020 
+Seq: 1650 Time: 292.033 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1651 Time: 292.384 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1652 Time: 292.895 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+1020 
+Seq: 1650 Time: 292.084 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1651 Time: 292.443 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1652 Time: 292.917 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+1020 
+Seq: 1650 Time: 292.136 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1651 Time: 292.525 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+Seq: 1652 Time: 293.05 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+1020 
+Seq: 1651 Time: 292.569 Mac: b4-30-52-ee-4f-40  SSID: SYSU-SECURE
+12c 
+Seq: 1899 Time: 304.216 Mac: 58-44-98-b0-17-5f  SSID: 123123
+1020 
+Seq: 5 Time: 321.264 Mac: 24-0-ba-6f-c9-66  SSID: cmcc
+2d 
+Seq: 1714 Time: 332.324 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+2d 
+Seq: 534 Time: 335.07 Mac: 28-a0-2b-3-c4-41  SSID: SYSU-SECURE
+Seq: 586 Time: 342.551 Mac: 28-a0-2b-3-c4-41  SSID: SYSU-SECURE
+Seq: 587 Time: 342.639 Mac: 28-a0-2b-3-c4-41  SSID: SYSU-SECURE
+Seq: 709 Time: 410.073 Mac: 28-a0-2b-3-c4-41  SSID: SYSU-SECURE
+Seq: 710 Time: 410.306 Mac: 28-a0-2b-3-c4-41  SSID: SYSU-SECURE
+12c 
+Seq: 22 Time: 339.531 Mac: 18-59-36-e6-88-16  SSID: haochun
+Seq: 30 Time: 339.743 Mac: 18-59-36-e6-88-16  SSID: haochun
+Seq: 38 Time: 339.817 Mac: 18-59-36-e6-88-16  SSID: haochun
+20 
+Seq: 1960 Time: 347.386 Mac: 58-44-98-fc-ec-b1  SSID: ChinaNet-Gzdy
+Seq: 2063 Time: 386.143 Mac: 58-44-98-fc-ec-b1  SSID: DIRECT-P7-BRAVIA
+Seq: 2066 Time: 386.251 Mac: 58-44-98-fc-ec-b1  SSID: TP-LINK_FFFA
+21 
+Seq: 2376 Time: 347.688 Mac: fc-3f-7c-53-e7-1f  SSID: TP-LINK_B403
+Seq: 2378 Time: 347.749 Mac: fc-3f-7c-53-e7-1f  SSID: TP-LINK_B403
+16e 
+Seq: 515 Time: 347.981 Mac: 3c-b6-b7-c0-51-39  SSID: SYSU-SECURE
+16e 
+Seq: 515 Time: 348.005 Mac: 3c-b6-b7-c0-51-39  SSID: SYSU-SECURE
+16e 
+Seq: 515 Time: 348.051 Mac: 3c-b6-b7-c0-51-39  SSID: SYSU-SECURE
+16e 
+Seq: 515 Time: 348.114 Mac: 3c-b6-b7-c0-51-39  SSID: SYSU-SECURE
+21 
+Seq: 57 Time: 349.276 Mac: c0-cc-f8-e9-9f-d7  SSID: SYSU-SECURE
+21 
+Seq: 3605 Time: 350.367 Mac: 68-3e-34-9b-5-6e  SSID: 正在识别身份……
+Seq: 3606 Time: 350.404 Mac: 68-3e-34-9b-5-6e  SSID: homeinns
+12c 
+Seq: 273 Time: 361.36 Mac: 18-59-36-e6-88-16  SSID: TP-Link-hong-fu
+Seq: 274 Time: 361.384 Mac: 18-59-36-e6-88-16  SSID: haochun
+Seq: 275 Time: 361.431 Mac: 18-59-36-e6-88-16  SSID: 分分
+Seq: 277 Time: 361.483 Mac: 18-59-36-e6-88-16  SSID: TP-Link-hong-fu
+Seq: 278 Time: 361.496 Mac: 18-59-36-e6-88-16  SSID: haochun
+Seq: 279 Time: 361.512 Mac: 18-59-36-e6-88-16  SSID: 分分
+1020 
+Seq: 2 Time: 365.413 Mac: f4-9f-f3-43-ae-61  SSID: 
+Seq: 108 Time: 482.407 Mac: b8-bc-1b-50-83-66  SSID: 12345678
+21 
+Seq: 2877 Time: 370.349 Mac: dc-d9-16-51-9d-3c  SSID: SYSU-SECURE
+Seq: 2879 Time: 370.407 Mac: dc-d9-16-51-9d-3c  SSID: SYSU-SECURE
+16e 
+Seq: 3659 Time: 370.621 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+Seq: 3660 Time: 370.959 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.642 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+Seq: 3660 Time: 371.014 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.691 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+Seq: 3660 Time: 371.035 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.715 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+Seq: 3660 Time: 371.086 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.761 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+Seq: 3660 Time: 371.112 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.785 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+Seq: 3660 Time: 371.16 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.797 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+Seq: 3660 Time: 371.186 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.858 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.884 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.894 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16e 
+Seq: 3659 Time: 370.906 Mac: 50-9e-a7-3c-2b-83  SSID: eduroam
+16f 
+Seq: 1480 Time: 371.744 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1481 Time: 371.792 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1482 Time: 371.808 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1483 Time: 371.818 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1485 Time: 371.984 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1486 Time: 372.167 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1487 Time: 372.182 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1488 Time: 372.338 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1490 Time: 372.517 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1491 Time: 372.624 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1492 Time: 372.66 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1493 Time: 372.731 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1495 Time: 372.799 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1496 Time: 372.812 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1497 Time: 372.82 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+6e 
+Seq: 1329 Time: 387.437 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+Seq: 1417 Time: 452.311 Mac: f8-a4-5f-9d-ae-3a  SSID: �ȅ�
+Seq: 1462 Time: 489.358 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+Seq: 1463 Time: 489.406 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+20 
+Seq: 1551 Time: 391.384 Mac: 14-f6-5a-99-86-82  SSID: nanpugongyu2
+Seq: 1552 Time: 391.444 Mac: 14-f6-5a-99-86-82  SSID: nanpugongyu1
+Seq: 1554 Time: 391.462 Mac: 14-f6-5a-99-86-82  SSID: TP-LINK_B3E1
+Seq: 1556 Time: 391.514 Mac: 14-f6-5a-99-86-82  SSID: TP-LINK_5EAA
+Seq: 1560 Time: 391.565 Mac: 14-f6-5a-99-86-82  SSID: hawk
+Seq: 1561 Time: 391.672 Mac: 14-f6-5a-99-86-82  SSID: 华视出行
+Seq: 1564 Time: 391.744 Mac: 14-f6-5a-99-86-82  SSID: CMCC
+12c 
+Seq: 490 Time: 394.888 Mac: 18-59-36-e6-88-16  SSID: TP-Link-hong-fu
+Seq: 491 Time: 394.909 Mac: 18-59-36-e6-88-16  SSID: haochun
+Seq: 492 Time: 394.926 Mac: 18-59-36-e6-88-16  SSID: 分分
+Seq: 494 Time: 394.972 Mac: 18-59-36-e6-88-16  SSID: TP-Link-hong-fu
+Seq: 496 Time: 394.986 Mac: 18-59-36-e6-88-16  SSID: 分分
+0 
+Seq: 543 Time: 395.804 Mac: 68-df-dd-ff-29-cc  SSID: HZQ
+Seq: 621 Time: 471.64 Mac: 68-df-dd-ff-29-cc  SSID: A20100323-1323
+Seq: 673 Time: 528.395 Mac: 68-df-dd-ff-29-cc  SSID: hzq
+20 
+Seq: 3692 Time: 399.983 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3771 Time: 451.382 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3844 Time: 466.727 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3913 Time: 485.021 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3916 Time: 485.151 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3919 Time: 485.276 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 3998 Time: 508.71 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 4000 Time: 508.788 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+16e 
+Seq: 1725 Time: 408.949 Mac: e0-dd-c0-9d-26-84  SSID: SYSU-SECURE
+16e 
+Seq: 1725 Time: 408.981 Mac: e0-dd-c0-9d-26-84  SSID: SYSU-SECURE
+21 
+Seq: 1222 Time: 412.459 Mac: f8-23-b2-c3-c4-2c  SSID: 百脑汇免费WiFi
+Seq: 1352 Time: 522.988 Mac: ce-3c-74-e7-c0-a8  SSID: YXNH
+102d 
+Seq: 2701 Time: 425.955 Mac: 5c-f8-a1-9c-70-3c  SSID: SYSU-SECURE
+Seq: 2702 Time: 426.117 Mac: 5c-f8-a1-9c-70-3c  SSID: SYSU-SECURE
+21 
+Seq: 3158 Time: 432.084 Mac: b6-0-95-fe-a9-b6  SSID: 1
+Seq: 3301 Time: 453.036 Mac: b6-0-95-fe-a9-b6  SSID: HUAWEI
+2c 
+Seq: 186 Time: 432.888 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 187 Time: 432.966 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 189 Time: 433.363 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 221 Time: 464.413 Mac: 14-f6-5a-97-fa-3f  SSID: SYSU-SECURE
+Seq: 222 Time: 464.465 Mac: 14-f6-5a-97-fa-3f  SSID: SYSU-SECURE
+0 
+Seq: 781 Time: 441.306 Mac: 68-3e-34-93-a2-ad  SSID:         
+21 
+Seq: 3373 Time: 449.394 Mac: 44-6e-e5-55-17-f6  SSID: SYSU-SECURE
+Seq: 3375 Time: 449.464 Mac: 44-6e-e5-55-17-f6  SSID: SYSU-SECURE
+Seq: 3378 Time: 449.722 Mac: 44-6e-e5-55-17-f6  SSID: SYSU-SECURE
+Seq: 3379 Time: 449.876 Mac: 44-6e-e5-55-17-f6  SSID: SYSU-SECURE
+Seq: 3558 Time: 453.358 Mac: 50-7a-55-1d-57-21  SSID: SYSU-SECURE
+Seq: 3559 Time: 453.418 Mac: 50-7a-55-1d-57-21  SSID: SYSU-SECURE
+Seq: 3625 Time: 552.336 Mac: c4-f0-81-5-d9-76  SSID: Family Mart
+Seq: 3626 Time: 552.364 Mac: c4-f0-81-5-d9-76  SSID: yukegongcha 
+Seq: 3629 Time: 552.5 Mac: c4-f0-81-5-d9-76  SSID: yukegongcha 
+Seq: 3757 Time: 564.717 Mac: c4-f0-81-5-d9-76  SSID: Family Mart
+1ad 
+Seq: 2662 Time: 459.786 Mac: 20-82-c0-67-de-26  SSID: SYSU-SECURE
+Seq: 2678 Time: 508.846 Mac: 20-82-c0-67-de-26  SSID: SYSU-SECURE
+20 
+Seq: 17 Time: 462.16 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 19 Time: 462.218 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+112d 
+Seq: 3024 Time: 463.541 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 3026 Time: 463.636 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 3028 Time: 463.734 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 3030 Time: 463.92 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+0 
+Seq: 2373 Time: 465.919 Mac: 80-41-4e-3c-c1-e8  SSID: 正永科技
+16f 
+Seq: 874 Time: 483.835 Mac: c0-ee-fb-d6-85-15  SSID: SYSU-SECURE
+1020 
+Seq: 3 Time: 486.714 Mac: b8-bc-1b-50-83-66  SSID: 12345678
+12c 
+Seq: 1075 Time: 489.028 Mac: 18-59-36-e6-88-16  SSID: TP-Link-hong-fu
+Seq: 1076 Time: 489.058 Mac: 18-59-36-e6-88-16  SSID: haochun
+Seq: 1077 Time: 489.104 Mac: 18-59-36-e6-88-16  SSID: 分分
+Seq: 1079 Time: 489.173 Mac: 18-59-36-e6-88-16  SSID: TP-Link-hong-fu
+Seq: 1081 Time: 489.191 Mac: 18-59-36-e6-88-16  SSID: 分分
+2d 
+Seq: 2305 Time: 500.532 Mac: 6c-8d-c1-c2-b2-db  SSID: SYSU-SECURE
+1020 
+Seq: 1 Time: 501.403 Mac: b8-bc-1b-50-83-66  SSID: 12345678
+Seq: 3 Time: 501.491 Mac: b8-bc-1b-50-83-66  SSID: 12345678
+21 
+Seq: 3761 Time: 511.644 Mac: 50-7a-55-1d-57-21  SSID: SYSU-SECURE
+Seq: 3762 Time: 511.742 Mac: 50-7a-55-1d-57-21  SSID: SYSU-SECURE
+Seq: 3814 Time: 521.219 Mac: 50-7a-55-1d-57-21  SSID: SYSU-SECURE
+Seq: 3815 Time: 521.299 Mac: 50-7a-55-1d-57-21  SSID: SYSU-SECURE
+Seq: 3865 Time: 526.817 Mac: 50-7a-55-1d-57-21  SSID: SYSU-SECURE
+0 
+Seq: 3274 Time: 525.457 Mac: b0-89-0-3e-e8-da  SSID: 我要奈子
+Seq: 3276 Time: 525.592 Mac: b0-89-0-3e-e8-da  SSID: 我要奈子
+12c 
+Seq: 3478 Time: 531.9 Mac: 58-7f-66-24-93-a7  SSID: Galah_2.4G
+16e 
+Seq: 3638 Time: 538.032 Mac: 9c-99-a0-a0-73-4f  SSID: SYSU-SECURE
+16e 
+Seq: 3638 Time: 538.061 Mac: 9c-99-a0-a0-73-4f  SSID: SYSU-SECURE
+16e 
+Seq: 3638 Time: 538.231 Mac: 9c-99-a0-a0-73-4f  SSID: SYSU-SECURE
+16e 
+Seq: 3638 Time: 538.255 Mac: 9c-99-a0-a0-73-4f  SSID: SYSU-SECURE
+0 
+Seq: 2935 Time: 538.985 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 2937 Time: 539.289 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 2939 Time: 539.571 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+20 
+Seq: 14 Time: 539.224 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 16 Time: 539.429 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+16f 
+Seq: 1850 Time: 554.16 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1851 Time: 554.215 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1852 Time: 554.234 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1853 Time: 554.286 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 1855 Time: 554.473 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 1856 Time: 554.594 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 1857 Time: 554.617 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 1858 Time: 554.676 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+2c 
+Seq: 50 Time: 571.809 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 228 Time: 595.659 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 230 Time: 595.721 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 232 Time: 595.781 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 234 Time: 595.862 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 236 Time: 595.951 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 238 Time: 596.04 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 239 Time: 596.064 Mac: 14-f6-5a-97-fa-3f  SSID: 
+Seq: 240 Time: 596.143 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 327 Time: 616.635 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 329 Time: 616.708 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 331 Time: 616.823 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 397 Time: 640.024 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 399 Time: 640.078 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 401 Time: 640.186 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 403 Time: 640.372 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 455 Time: 645.038 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 457 Time: 645.113 Mac: 14-f6-5a-97-fa-3f  SSID: TP-LINK_B3DA
+Seq: 523 Time: 659.74 Mac: 14-f6-5a-97-fa-3f  SSID: SYSU-SECURE
+Seq: 524 Time: 659.788 Mac: 14-f6-5a-97-fa-3f  SSID: SYSU-SECURE
+Seq: 563 Time: 662.735 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 564 Time: 662.75 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 567 Time: 662.795 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 607 Time: 693.737 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 610 Time: 693.788 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 730 Time: 694.759 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 754 Time: 719.685 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 758 Time: 719.746 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 876 Time: 720.462 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 878 Time: 720.513 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 879 Time: 720.528 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 910 Time: 754.424 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 911 Time: 754.498 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 912 Time: 754.537 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1002 Time: 755.914 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1003 Time: 756.001 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1004 Time: 756.019 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1038 Time: 781.37 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1039 Time: 781.421 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1040 Time: 781.436 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1042 Time: 781.482 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1043 Time: 781.522 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1044 Time: 781.539 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1046 Time: 781.669 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1047 Time: 781.743 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1050 Time: 781.871 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1051 Time: 781.891 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1163 Time: 782.852 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1166 Time: 782.936 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1167 Time: 782.952 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1174 Time: 815.047 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1175 Time: 815.104 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1176 Time: 815.121 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1178 Time: 815.184 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1179 Time: 815.201 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1180 Time: 815.281 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1182 Time: 815.363 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1183 Time: 815.399 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1184 Time: 815.411 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1186 Time: 815.46 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1187 Time: 815.478 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1188 Time: 815.602 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1192 Time: 815.68 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1194 Time: 815.695 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1200 Time: 815.745 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1271 Time: 816.873 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1272 Time: 816.921 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1273 Time: 816.937 Mac: 14-f6-5a-9c-d6-16  SSID: 
+Seq: 1274 Time: 816.946 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1275 Time: 816.954 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1276 Time: 817.004 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1291 Time: 846.894 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1292 Time: 846.912 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1294 Time: 846.962 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1295 Time: 847.018 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1296 Time: 847.033 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 1374 Time: 847.335 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1375 Time: 847.384 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 1376 Time: 847.4 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+12c 
+Seq: 3768 Time: 578.958 Mac: c0-ee-fb-5f-b0-c0  SSID: 114
+Seq: 3771 Time: 579.018 Mac: c0-ee-fb-5f-b0-c0  SSID: y
+0 
+Seq: 1798 Time: 580.538 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1800 Time: 580.969 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1885 Time: 644.264 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+Seq: 1931 Time: 730.688 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+16f 
+Seq: 21 Time: 580.641 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 22 Time: 580.678 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 23 Time: 580.729 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 25 Time: 580.786 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 27 Time: 580.806 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 28 Time: 580.871 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 128 Time: 640.721 Mac: d0-5b-a8-63-12-78  SSID: 百米生活-Thankumom
+116f 
+Seq: 136 Time: 592.386 Mac: 8c-eb-c6-39-58-e9  SSID: SYSU-SECURE
+2c 
+Seq: 162 Time: 601.187 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 163 Time: 601.248 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 167 Time: 601.326 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 306 Time: 634.773 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 307 Time: 634.826 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 311 Time: 634.894 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 451 Time: 660.892 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 454 Time: 660.945 Mac: 14-f6-5a-9c-d6-16  SSID: 我不认识你
+Seq: 456 Time: 661.026 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+Seq: 460 Time: 661.119 Mac: 14-f6-5a-9c-d6-16  SSID: rcdd409
+20 
+Seq: 3092 Time: 603.986 Mac: 38-bc-1a-a6-da-d7  SSID: 123
+Seq: 3093 Time: 604.013 Mac: 38-bc-1a-a6-da-d7  SSID: 龙潭饭店
+Seq: 3094 Time: 604.06 Mac: 38-bc-1a-a6-da-d7  SSID: 666666
+Seq: 3095 Time: 604.08 Mac: 38-bc-1a-a6-da-d7  SSID: 1314
+Seq: 3096 Time: 604.141 Mac: 38-bc-1a-a6-da-d7  SSID: XiaoRui-683
+Seq: 3097 Time: 604.171 Mac: 38-bc-1a-a6-da-d7  SSID: 1234
+Seq: 3098 Time: 604.232 Mac: 38-bc-1a-a6-da-d7  SSID: saozi
+Seq: 3099 Time: 604.369 Mac: 38-bc-1a-a6-da-d7  SSID: kobeluo l xy
+Seq: 3100 Time: 604.389 Mac: 38-bc-1a-a6-da-d7  SSID: wan
+Seq: 3102 Time: 604.619 Mac: 38-bc-1a-a6-da-d7  SSID: 123
+Seq: 3103 Time: 604.719 Mac: 38-bc-1a-a6-da-d7  SSID: 龙潭饭店
+Seq: 3105 Time: 604.775 Mac: 38-bc-1a-a6-da-d7  SSID: 1314
+Seq: 3107 Time: 604.826 Mac: 38-bc-1a-a6-da-d7  SSID: 1234
+Seq: 3108 Time: 604.875 Mac: 38-bc-1a-a6-da-d7  SSID: saozi
+Seq: 3109 Time: 604.894 Mac: 38-bc-1a-a6-da-d7  SSID: kobeluo l xy
+Seq: 3110 Time: 604.938 Mac: 38-bc-1a-a6-da-d7  SSID: wan
+Seq: 3112 Time: 605.131 Mac: 38-bc-1a-a6-da-d7  SSID: 123
+Seq: 3114 Time: 605.266 Mac: 38-bc-1a-a6-da-d7  SSID: 666666
+Seq: 3117 Time: 605.329 Mac: 38-bc-1a-a6-da-d7  SSID: 1234
+Seq: 3118 Time: 605.396 Mac: 38-bc-1a-a6-da-d7  SSID: saozi
+Seq: 3120 Time: 605.444 Mac: 38-bc-1a-a6-da-d7  SSID: wan
+Seq: 3123 Time: 605.744 Mac: 38-bc-1a-a6-da-d7  SSID: 龙潭饭店
+Seq: 3124 Time: 605.817 Mac: 38-bc-1a-a6-da-d7  SSID: 666666
+Seq: 3127 Time: 605.894 Mac: 38-bc-1a-a6-da-d7  SSID: 1234
+Seq: 3129 Time: 605.987 Mac: 38-bc-1a-a6-da-d7  SSID: kobeluo l xy
+Seq: 3130 Time: 606.045 Mac: 38-bc-1a-a6-da-d7  SSID: wan
+16f 
+Seq: 240 Time: 613.351 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 241 Time: 613.415 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 245 Time: 613.606 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+21 
+Seq: 2745 Time: 617.704 Mac: d0-65-ca-ce-97-f4  SSID: itell
+Seq: 2909 Time: 663.306 Mac: 86-be-2d-0-bb-3f  SSID: rcdd409
+Seq: 2975 Time: 713.296 Mac: f2-13-57-d-f8-c1  SSID: rcdd409
+Seq: 2977 Time: 713.542 Mac: f2-13-57-d-f8-c1  SSID: rcdd409
+Seq: 3159 Time: 765.204 Mac: 60-83-34-8-cd-d9  SSID: SYSU-SECURE
+Seq: 3235 Time: 849.429 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+2d 
+Seq: 1401 Time: 624.386 Mac: 28-a0-2b-98-74-9d  SSID: SYSU-SECURE
+6e 
+Seq: 1600 Time: 624.833 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+16e 
+Seq: 3571 Time: 625.397 Mac: 50-9e-a7-29-aa-94  SSID: qbxxw05
+Seq: 3573 Time: 625.462 Mac: 50-9e-a7-29-aa-94  SSID: qbxxw05
+Seq: 3623 Time: 730.228 Mac: 50-9e-a7-29-aa-94  SSID: qbxxw05
+0 
+Seq: 2425 Time: 627.583 Mac: 80-41-4e-3c-c1-e8  SSID: 正永科技
+2c 
+Seq: 3741 Time: 628.319 Mac: 8c-be-be-cf-31-39  SSID: SYSU-SECURE
+Seq: 3797 Time: 714.712 Mac: 8c-be-be-cf-31-39  SSID: SYSU-SECURE
+Seq: 3798 Time: 714.763 Mac: 8c-be-be-cf-31-39  SSID: SYSU-SECURE
+Seq: 3826 Time: 767.798 Mac: 8c-be-be-cf-31-39  SSID: MissNg
+Seq: 3827 Time: 767.854 Mac: 8c-be-be-cf-31-39  SSID: MissNg
+Seq: 3828 Time: 767.875 Mac: 8c-be-be-cf-31-39  SSID: �El	�
+Seq: 3829 Time: 767.886 Mac: 8c-be-be-cf-31-39  SSID: MERCURY_6061EE
+Seq: 3830 Time: 767.896 Mac: 8c-be-be-cf-31-39  SSID: 魅蓝3s
+Seq: 3831 Time: 767.906 Mac: 8c-be-be-cf-31-39  SSID: jiaoyeye
+Seq: 3836 Time: 767.975 Mac: 8c-be-be-cf-31-39  SSID: MissNg
+100c 
+Seq: 332 Time: 630.62 Mac: 20-64-32-da-42-54  SSID: SYSU-SECURE
+Seq: 333 Time: 630.863 Mac: 20-64-32-da-42-54  SSID: SYSU-SECURE
+Seq: 334 Time: 630.966 Mac: 20-64-32-da-42-54  SSID: SYSU-SECURE
+Seq: 335 Time: 631.031 Mac: 20-64-32-da-42-54  SSID: SYSU-SECURE
+Seq: 339 Time: 631.101 Mac: 20-64-32-da-42-54  SSID: SYSU-SECURE
+20 
+Seq: 1879 Time: 631.709 Mac: f8-a4-5f-7e-bc-72  SSID: LYT
+20 
+Seq: 13 Time: 632.326 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 15 Time: 632.392 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 18 Time: 716.197 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 157 Time: 716.709 Mac: c0-63-94-12-53-2  SSID: SYSU-SECURE
+Seq: 187 Time: 719.273 Mac: c0-63-94-12-53-2  SSID: SYSU-SECURE
+20 
+Seq: 293 Time: 633.69 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 338 Time: 667.502 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 340 Time: 667.705 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 411 Time: 700.283 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 488 Time: 715.828 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 490 Time: 715.92 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 554 Time: 717.153 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 555 Time: 717.253 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 635 Time: 747.915 Mac: e4-58-b8-b1-d8-b9  SSID: 
+Seq: 637 Time: 748.068 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 705 Time: 750.672 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 707 Time: 750.76 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 709 Time: 750.91 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 780 Time: 766.865 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 781 Time: 766.923 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 793 Time: 770.444 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 794 Time: 770.506 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 815 Time: 776.633 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 816 Time: 776.7 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 818 Time: 776.826 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 829 Time: 801.126 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 831 Time: 801.233 Mac: e4-58-b8-b1-d8-b9  SSID: B302
+Seq: 895 Time: 803.074 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 896 Time: 803.298 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 898 Time: 803.713 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 900 Time: 803.829 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 901 Time: 804.072 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 902 Time: 804.283 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 903 Time: 804.755 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 904 Time: 805.175 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 905 Time: 805.777 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 906 Time: 806.115 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 907 Time: 806.306 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 908 Time: 806.545 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 910 Time: 806.602 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 992 Time: 846.015 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 993 Time: 846.117 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 996 Time: 846.198 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 999 Time: 846.391 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+16e 
+Seq: 1158 Time: 637.481 Mac: 9c-2a-83-e1-a9-7c  SSID: MH
+Seq: 1159 Time: 637.515 Mac: 9c-2a-83-e1-a9-7c  SSID: F
+Seq: 1161 Time: 637.577 Mac: 9c-2a-83-e1-a9-7c  SSID: MH
+Seq: 1162 Time: 637.607 Mac: 9c-2a-83-e1-a9-7c  SSID: FFF
+Seq: 1164 Time: 637.69 Mac: 9c-2a-83-e1-a9-7c  SSID: MH
+Seq: 1165 Time: 637.76 Mac: 9c-2a-83-e1-a9-7c  SSID: FFF
+Seq: 1167 Time: 637.85 Mac: 9c-2a-83-e1-a9-7c  SSID: MH
+Seq: 1168 Time: 637.878 Mac: 9c-2a-83-e1-a9-7c  SSID: FFF
+Seq: 1367 Time: 699.258 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1369 Time: 699.325 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1371 Time: 699.477 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1373 Time: 699.578 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1375 Time: 699.664 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1377 Time: 699.693 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1481 Time: 722.128 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1485 Time: 722.21 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+Seq: 1487 Time: 722.273 Mac: fc-1a-11-c1-ea-e7  SSID: 黄瓜粿条饭
+21 
+Seq: 2067 Time: 641.847 Mac: 74-1b-b2-a0-e3-96  SSID: SYSU-SECURE
+21 
+Seq: 860 Time: 644.55 Mac: b8-44-d9-52-9e-93  SSID: SYSU-SECURE
+16f 
+Seq: 460 Time: 645.534 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 461 Time: 645.563 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 462 Time: 645.625 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 463 Time: 645.689 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+Seq: 465 Time: 645.757 Mac: 74-23-44-ea-e7-62  SSID: aaaa
+Seq: 466 Time: 645.791 Mac: 74-23-44-ea-e7-62  SSID: aa
+Seq: 467 Time: 645.844 Mac: 74-23-44-ea-e7-62  SSID: ecnc_5G
+Seq: 468 Time: 645.9 Mac: 74-23-44-ea-e7-62  SSID: ecnc
+16e 
+Seq: 968 Time: 647.165 Mac: fc-1a-11-d9-f4-53  SSID: FAXΔj
+112d 
+Seq: 3226 Time: 651.693 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 3228 Time: 651.775 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 3230 Time: 652.025 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+Seq: 3232 Time: 652.193 Mac: a4-71-74-b-14-18  SSID: sysu.secure
+0 
+Seq: 1456 Time: 654.116 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1500 Time: 667.856 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1544 Time: 689.342 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1546 Time: 689.536 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1588 Time: 711.344 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1590 Time: 711.406 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1632 Time: 724.808 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1634 Time: 725.05 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1676 Time: 748.376 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+Seq: 1678 Time: 748.443 Mac: 38-bc-1a-c3-96-84  SSID: 杨涛
+21 
+Seq: 653 Time: 656.379 Mac: 86-9-3-ea-dd-c3  SSID: z7788
+Seq: 820 Time: 722.386 Mac: c8-1e-e7-76-d3-d0  SSID: HUAWEI Mate 7
+Seq: 877 Time: 770.138 Mac: c8-1e-e7-76-d3-d0  SSID: HUAWEI Mate 7
+Seq: 920 Time: 773.585 Mac: c8-1e-e7-76-d3-d0  SSID: HUAWEI Mate 7
+Seq: 968 Time: 783.956 Mac: c8-1e-e7-76-d3-d0  SSID: HUAWEI Mate 7
+20 
+Seq: 2803 Time: 658.169 Mac: 58-44-98-fc-ec-b1  SSID: C201
+Seq: 2986 Time: 659.938 Mac: 58-44-98-fc-ec-b1  SSID: ChinaNet-Gzdy
+2d 
+Seq: 2136 Time: 670.595 Mac: ce-e7-2b-47-27-49  SSID: �k�Eg�
+Seq: 2226 Time: 749.173 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+Seq: 2227 Time: 749.239 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+12c 
+Seq: 3639 Time: 685.989 Mac: 64-9-80-c5-67-3  SSID: FAX�/��
+2d 
+Seq: 2009 Time: 686.281 Mac: 38-71-de-2b-1e-e6  SSID: SYSU-SECURE
+21 
+Seq: 2677 Time: 687.645 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+12c 
+Seq: 1378 Time: 688.561 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1380 Time: 688.618 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1382 Time: 688.697 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1448 Time: 710.835 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1450 Time: 710.889 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1452 Time: 710.971 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1454 Time: 711.086 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1456 Time: 711.164 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1522 Time: 711.864 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1524 Time: 711.955 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+Seq: 1526 Time: 712.069 Mac: cc-f3-a5-66-23-ba  SSID: sysu
+21 
+Seq: 3144 Time: 696.478 Mac: 8a-b6-b7-d4-2-ac  SSID: �k�Eg�
+16e 
+Seq: 3223 Time: 696.85 Mac: 9c-fb-d5-c-98-2  SSID: W�
+0 
+Seq: 2979 Time: 719.434 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 2981 Time: 719.568 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 3025 Time: 731.163 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 3027 Time: 731.31 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 3067 Time: 742.406 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 3111 Time: 764.855 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 3113 Time: 765.098 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 3155 Time: 779.854 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+Seq: 3199 Time: 847.594 Mac: 68-3e-34-6e-67-70  SSID: TP-LINK_E57E
+c1c0 
+Seq: 1929 Time: 730.48 Mac: 68-3e-34-5f-6f-68  SSID: chewifi
+0 
+Seq: 881 Time: 748.58 Mac: 68-df-dd-ff-29-cc  SSID: hzq
+Seq: 959 Time: 845.082 Mac: 68-df-dd-ff-29-cc  SSID: HZQ
+6e 
+Seq: 1734 Time: 758.814 Mac: f8-a4-5f-9d-ae-3a  SSID: MEIZU
+16e 
+Seq: 1293 Time: 768.391 Mac: 9c-2a-83-e1-a9-7c  SSID: MH
+Seq: 1294 Time: 768.475 Mac: 9c-2a-83-e1-a9-7c  SSID: FFF
+0 
+Seq: 4006 Time: 771.404 Mac: 68-3e-34-66-5e-df  SSID: 
+12c 
+Seq: 3266 Time: 772.712 Mac: 74-51-ba-32-e6-25  SSID: SYSU-SECURE
+12c 
+Seq: 3266 Time: 772.739 Mac: 74-51-ba-32-e6-25  SSID: SYSU-SECURE
+12c 
+Seq: 3266 Time: 772.784 Mac: 74-51-ba-32-e6-25  SSID: SYSU-SECURE
+12c 
+Seq: 3266 Time: 772.808 Mac: 74-51-ba-32-e6-25  SSID: SYSU-SECURE
+12c 
+Seq: 3266 Time: 772.821 Mac: 74-51-ba-32-e6-25  SSID: SYSU-SECURE
+21 
+Seq: 3045 Time: 784.953 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+Seq: 3112 Time: 810.367 Mac: 98-e0-d9-1-fb-2d  SSID: SYSU-SECURE
+21 
+Seq: 2069 Time: 785.444 Mac: 96-e8-3d-77-68-13  SSID: GF8801
+Seq: 2071 Time: 785.576 Mac: 96-e8-3d-77-68-13  SSID: GF8801
+21 
+Seq: 3459 Time: 785.993 Mac: 60-83-34-8-cd-d9  SSID: SYSU-VVLAN
+21 
+Seq: 1782 Time: 796.82 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+Seq: 1783 Time: 796.886 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+Seq: 1784 Time: 796.954 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+Seq: 1786 Time: 797.09 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+Seq: 1789 Time: 797.177 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+Seq: 1912 Time: 800.479 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+Seq: 1913 Time: 800.561 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+Seq: 1917 Time: 800.715 Mac: 80-13-82-f4-a4-eb  SSID: SYSU-SECURE
+20 
+Seq: 895 Time: 803.097 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 896 Time: 803.317 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 898 Time: 803.733 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 900 Time: 803.879 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 901 Time: 804.186 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 902 Time: 804.302 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 903 Time: 804.779 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 904 Time: 805.223 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 905 Time: 805.861 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 906 Time: 806.189 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 907 Time: 806.341 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 910 Time: 806.622 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 992 Time: 846.035 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 996 Time: 846.309 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+20 
+Seq: 895 Time: 803.145 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 896 Time: 803.483 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 900 Time: 803.935 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 902 Time: 804.552 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 903 Time: 804.889 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 904 Time: 805.315 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 905 Time: 805.899 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 907 Time: 806.362 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 910 Time: 806.639 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+20 
+Seq: 895 Time: 803.175 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 896 Time: 803.577 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 900 Time: 803.999 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 902 Time: 804.666 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 903 Time: 805.003 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 904 Time: 805.34 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 905 Time: 805.919 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 907 Time: 806.415 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 910 Time: 806.66 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+20 
+Seq: 895 Time: 803.188 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 896 Time: 803.61 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 902 Time: 804.698 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 903 Time: 805.049 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 904 Time: 805.525 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 905 Time: 805.987 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 907 Time: 806.437 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 910 Time: 806.677 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+20 
+Seq: 895 Time: 803.202 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 896 Time: 803.63 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 904 Time: 805.64 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 905 Time: 806.009 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 907 Time: 806.481 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 910 Time: 806.725 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+20 
+Seq: 895 Time: 803.216 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 904 Time: 805.694 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+Seq: 905 Time: 806.025 Mac: e4-58-b8-b1-d8-b9  SSID: SYSU-SECURE
+20 
+Seq: 17 Time: 807.423 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+Seq: 19 Time: 807.486 Mac: 8c-7c-92-5e-62-f5  SSID: ecnc
+1ad 
+Seq: 2527 Time: 818.208 Mac: ac-ee-9e-e7-9a-7b  SSID: SYSU-SECURE
+1020 
+Seq: 1 Time: 830.281 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 5 Time: 832.082 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 9 Time: 834.681 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 10 Time: 835.268 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 11 Time: 836.005 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 12 Time: 852.559 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 16 Time: 853.579 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 17 Time: 854.371 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 21 Time: 855.465 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 22 Time: 856.227 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 23 Time: 856.799 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 24 Time: 857.718 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 25 Time: 858.402 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 26 Time: 859.191 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 27 Time: 859.959 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 1 Time: 830.343 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 5 Time: 832.162 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 9 Time: 834.741 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 10 Time: 835.326 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 11 Time: 836.189 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 12 Time: 852.623 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 16 Time: 853.656 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 17 Time: 854.582 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 21 Time: 855.683 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 22 Time: 856.33 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 23 Time: 856.857 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 24 Time: 857.774 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 25 Time: 858.597 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 26 Time: 859.259 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 27 Time: 860.024 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 1 Time: 830.368 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 5 Time: 832.183 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 9 Time: 834.814 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 10 Time: 835.395 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 11 Time: 836.259 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 12 Time: 852.685 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 16 Time: 853.719 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 17 Time: 854.741 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 21 Time: 855.79 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 22 Time: 856.388 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 23 Time: 856.99 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 24 Time: 857.864 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 25 Time: 858.691 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 26 Time: 859.445 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 27 Time: 860.084 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 1 Time: 830.688 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 5 Time: 832.246 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 9 Time: 834.956 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 10 Time: 835.462 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 11 Time: 836.391 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 12 Time: 852.73 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 16 Time: 853.821 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 17 Time: 854.833 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 21 Time: 855.859 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 22 Time: 856.443 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 23 Time: 857.067 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 24 Time: 857.99 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 25 Time: 858.749 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 26 Time: 859.551 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 27 Time: 860.204 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 1 Time: 830.781 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 5 Time: 832.361 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 9 Time: 835.017 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 10 Time: 835.635 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 11 Time: 836.588 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 12 Time: 852.784 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 16 Time: 853.889 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 17 Time: 854.896 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 21 Time: 855.964 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 22 Time: 856.538 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 23 Time: 857.282 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 24 Time: 858.067 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 25 Time: 858.808 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 26 Time: 859.627 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 27 Time: 860.289 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 1 Time: 830.934 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 5 Time: 832.451 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 9 Time: 835.103 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 10 Time: 835.738 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 11 Time: 836.711 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 12 Time: 852.912 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 16 Time: 854.09 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 17 Time: 854.956 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 21 Time: 856.045 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 22 Time: 856.628 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 23 Time: 857.402 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 24 Time: 858.141 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 25 Time: 858.867 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 26 Time: 859.689 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 5 Time: 832.507 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 9 Time: 835.211 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 10 Time: 835.916 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 11 Time: 836.773 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 12 Time: 853.022 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 16 Time: 854.283 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 17 Time: 855.024 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 21 Time: 856.084 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 22 Time: 856.71 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 23 Time: 857.655 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 24 Time: 858.279 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 25 Time: 859.063 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+Seq: 26 Time: 859.76 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+21 
+Seq: 3067 Time: 846.247 Mac: 46-bf-75-67-13-7c  SSID: rcdd409
+21 
+Seq: 2939 Time: 851.343 Mac: 2c-f0-a2-be-17-33  SSID: SYSU-SECURE
+1020 
+Seq: 11 Time: 851.815 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 11 Time: 851.878 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 11 Time: 851.936 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 11 Time: 852.018 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 11 Time: 852.21 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 11 Time: 852.345 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
+1020 
+Seq: 11 Time: 852.465 Mac: 64-a6-51-48-55-94  SSID: SYSU-SECURE
